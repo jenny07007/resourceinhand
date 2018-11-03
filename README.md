@@ -47,7 +47,7 @@ npm install lodash
  
 
 
-## 🔰 React
+## 🔰 React </>   [⇡](/README.md#-command-line/)
 ##### [create-react-app](/https://www.npmjs.com/package/create-react-app/)
 ##### [tachyons](/https://www.npmjs.com/package/create-react-app/) 
 ##### [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
