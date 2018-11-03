@@ -1,5 +1,5 @@
 # resourceinhand
-#### [command-line](/#-command-line/) . [npm package](/https://github.com/jenny07007/resourceinhand#-npm-packages-for-web-development/) . [onlinetools](/#-Online-tools/) . [react](/#-react/) . []
+#### [command-line](/#-command-line/) . [npm package](README.md#npm-packages-for-web-development/) . [onlinetools](/#-Online-tools/) . [react](/#-react/) . []
 
 
 
