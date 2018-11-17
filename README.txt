@@ -1,11 +1,11 @@
 # resourceinhand
-#### [command-line](/README.md#-command-line/) . [npm package](README.md#npm-packages-for-web-development/) . [onlinetools](/README.md#-Online-tools/) . [react](/README.md#-react/) . []
+#### [command-line](/command-line/) . [npm package](/npm/) . [onlinetools](/Online/) . [react](/React/) . []
 
 
 
 
 ## command-line
-### 🐶 Vim
+### 🐶 Vim 
 ```
 :q — to quit (short for :quite)
 :q! — to quit without saving (short for :quit!)
@@ -22,14 +22,6 @@ defaults write com.apple.finder AppleShowAllFiles TRUE
 killall Finder
 ```
 
-#### find files on mac
-```
-sudo find ~ iname "name*"
-```
-```
-sudo find ~/Library/ -iname "name*"
-```
-
 
 ### npm packages for web development
 | `npm init`
@@ -44,56 +36,32 @@ npm install lodash
 }
 ```
 
-| `npm install -g browserify`
+| `npm install -g browserify` 
 | ``
-
-tether
-`npm install tether`
-
 
 
 ## 🍺 Online tools
 ##### [glot](https://glot.io/)
 ##### [repl.it](https://repl.it/)
 ##### [Robohash](https://robohash.org/)
-##### [Dillinger](https://dillinger.io/)
+ 
 
 
-
-## 🔰 React </>   [⇡](/README.md#resourceinhand/)
+## 🔰 React
 ##### [create-react-app](/https://www.npmjs.com/package/create-react-app/)
-##### [tachyons](/https://www.npmjs.com/package/create-react-app/)
+##### [tachyons](/https://www.npmjs.com/package/create-react-app/) 
 ##### [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 
 ```
 npx create-react-app appname  // npx makes sure that you’re always using the latest version
 ```
-##### Fetch API -
+Fetch API - 
 ```
 componentDidMount() {
-fetch("https://")
+fetch("https://jsonplaceholder.typicode.com/users")
       .then(response => response.json())
       .then(users => this.setState({ robots: users}));
 }
 ```
-
-## Back-end
-##### [PostMan] (https://www.getpostman.com/)
-##### [body-parse] (https://www.npmjs.com/package/body-parser)
-##### [bcrypt-nodejs] (https://www.npmjs.com/package/bcrypt-nodejs)
-##### [cors] (https://www.npmjs.com/package/cors)
-
-
-
-```
-const fs = require("fs")
-fs.readFile("./", (err, data) => {...})   // async
-fs.readFileSync(""./)                     // sync
-fs.writeFile("file.txt", "add any texts", err => {...})
-fs.unlink("./", err => {})                // delete file
-```
-
-
-
 
