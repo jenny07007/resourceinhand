@@ -15,10 +15,10 @@
 
 
 ## Back-end
-##### [PostMan] (https://www.getpostman.com/)
-##### [body-parse] (https://www.npmjs.com/package/body-parser)
-##### [bcrypt-nodejs] (https://www.npmjs.com/package/bcrypt-nodejs)
-##### [cors] (https://www.npmjs.com/package/cors)
+##### [PostMan](https://www.getpostman.com/)
+##### [body-parse](https://www.npmjs.com/package/body-parser)
+##### [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs)
+##### [cors](https://www.npmjs.com/package/cors)
 
 
 
