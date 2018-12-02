@@ -49,7 +49,6 @@
 
 ## Database
 ##### [PostgreSQL](https://www.postgresql.org/)
->>>>>>> 37436e1dbaf89196752ff0e11aca344953042125
 ##### [psequel GUI](http://www.psequel.com/)
 ##### [knex](https://knexjs.org/#Builder-where)
 ##### [pg-promise](https://github.com/vitaly-t/pg-promise)
