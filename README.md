@@ -20,18 +20,18 @@
 
 
 ## npm
-##### [npm-check-updates] (https://www.getpostman.com/) upgrades package.json dependencies to the latest versions, ignoring specified versions.
+##### [npm-check-updates](https://www.getpostman.com/) - upgrades package.json dependencies to the latest versions, ignoring specified versions.
 
 
 
 
 ## 🕵️‍♀️ Back-end
-##### [PostMan] (https://www.getpostman.com/)
-##### [body-parse] (https://www.npmjs.com/package/body-parser) - A middleware to parse data from our codes thought HTTP requests.
-##### [bcrypt-nodejs] (https://www.npmjs.com/package/bcrypt-nodejs)
-##### [cors] (https://www.npmjs.com/package/cors) - Cross-origin(domain) Resource Sharing
-##### [express] (https://expressjs.com/) - For building server
-##### [nodemon] (https://www.npmjs.com/package/nodemon) - Run nodemon on scrips and make sure server is running
+##### [PostMan](https://www.getpostman.com/)
+##### [body-parse](https://www.npmjs.com/package/body-parser) - A middleware to parse data from our codes thought HTTP requests.
+##### [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs)
+##### [cors](https://www.npmjs.com/package/cors) - Cross-origin(domain) Resource Sharing
+##### [express](https://expressjs.com/) - For building server
+##### [nodemon](https://www.npmjs.com/package/nodemon) - Run nodemon on scrips and make sure server is running
 
 
 
@@ -49,7 +49,6 @@
 
 ## Database
 ##### [PostgreSQL](https://www.postgresql.org/)
->>>>>>> 37436e1dbaf89196752ff0e11aca344953042125
 ##### [psequel GUI](http://www.psequel.com/)
 ##### [knex](https://knexjs.org/#Builder-where)
 ##### [pg-promise](https://github.com/vitaly-t/pg-promise)
