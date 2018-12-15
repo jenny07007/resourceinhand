@@ -7,20 +7,26 @@
 
 
 
-## 🐠 Colors 
-#####[Blend](http://colinkeany.com/blend/)
+## 🐠 Colors
+##### [Blend](http://colinkeany.com/blend/)
 
 
 
 
-## 🔰 React 
+## 🔰 React
 ##### [create-react-app](/https://www.npmjs.com/package/create-react-app/)
-##### [tachyons](/https://www.npmjs.com/package/create-react-app/)
+##### [tachyons](/https://www.npmjs.com/package/create-react-app/) - A framework just like bootstrap
 ##### [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+##### [Formik](https://jaredpalmer.com/formik) - Obversely, to create forms  
 
 
-## npm
+
+## 🏄 npm
 ##### [npm-check-updates](https://www.getpostman.com/) - upgrades package.json dependencies to the latest versions, ignoring specified versions.
+##### [date-fns](https://date-fns.org/)
+##### [loash](https://lodash.com/)
+##### [eslint](https://eslint.org/)
+##### [prettier](https://prettier.io/)
 
 
 
@@ -41,9 +47,3 @@
 ##### [psequel GUI](http://www.psequel.com/)
 ##### [knex](https://knexjs.org/#Builder-where)
 ##### [pg-promise](https://github.com/vitaly-t/pg-promise)
-
-
-
-
-
-
