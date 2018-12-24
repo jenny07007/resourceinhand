@@ -3,7 +3,7 @@
 ##### [glot](https://glot.io/)
 ##### [repl.it](https://repl.it/)
 ##### [Robohash](https://robohash.org/)
-##### [Dillinger](https://dillinger.io/) -- Editing markdown doucment and preview directly
+##### [Dillinger](https://dillinger.io/) -- Editing markdown document and preview directly
 ##### [JSONPlaceholder](https://jsonplaceholder.typicode.com/) -- Fake online APIs
 #
 ## 🐠 Colors
@@ -11,22 +11,23 @@
 #
 ## 🔰 React
 ##### [create-react-app](/https://www.npmjs.com/package/create-react-app/)
-##### [react-router](https://reacttraining.com/react-router/) 
-##### [Ramda](https://ramdajs.com/) -- Functional library for JavsScript
+##### [react-router](https://reacttraining.com/react-router/)
+##### [Ramda](https://ramdajs.com/) -- Functional library for JavaScript
 ##### [glamorous](https://glamorous.rocks/) -- Maintainable CSS
 ##### [gatsby](https://www.gatsbyjs.org/) -- Building static website
-##### [NextJS](https://nextjs.org/) -- Server side rendered app
-##### [Formik](https://jaredpalmer.com/formik) -- Obversely, to create forms 
+##### [NextJS](https://nextjs.org/) -- A server side rendered app
+##### [Formik](https://jaredpalmer.com/formik) -- Obversely, to create forms
+##### [Radium](https://formidable.com/open-source/radium/) -- Managing inline styles on React elements without CSS.
 #
-## 🏈 Redux 
+## 🏈 Redux
 ##### [redux](https://www.npmjs.com/package/redux) -- React library for managing states
 ##### [redux-react](https://www.npmjs.com/package/react-redux) -- Connecting redux to react
 ##### [redux-logger](https://www.npmjs.com/package/redux-logger) -- Middleware for redux
-##### [redux-thunk](https://www.npmjs.com/package/redux-thunk) -- Handling async in Redux 
+##### [redux-thunk](https://www.npmjs.com/package/redux-thunk) -- Handling async in Redux
 ##### [react-saga](https://redux-saga.js.org/) -- Handling async actions in Redux
 #
 ## 🏄 npm
-##### [npm-check-updates](https://www.getpostman.com/) -- upgrades package.json dependencies to the latest versions, ignoring specified versions.
+##### [npm-check-updates](https://www.getpostman.com/) -- Upgrading package.json dependencies to the latest versions, ignoring specified versions.
 ##### [tachyons](/https://www.npmjs.com/package/create-react-app/) -- A framework just like bootstrap
 ##### [date-fns](https://date-fns.org/)
 ##### [loash](https://lodash.com/)
@@ -38,7 +39,7 @@
 ##### [body-parse](https://www.npmjs.com/package/body-parser) -- A middleware to parse data from our codes thought HTTP requests.
 ##### [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs)
 ##### [cors](https://www.npmjs.com/package/cors) -- Cross-origin(domain) Resource Sharing
-##### [express](https://expressjs.com/) -- For building server
+##### [express](https://expressjs.com/) -- For building the server
 ##### [nodemon](https://www.npmjs.com/package/nodemon) -- Run nodemon on scrips and make sure server is running
 #
 ## 👩‍💻 Database
