@@ -5,6 +5,7 @@
 #### [Robohash](https://robohash.org/)
 #### [Dillinger](https://dillinger.io/) -- Editing markdown document and previewing it directly
 #### [JSONPlaceholder](https://jsonplaceholder.typicode.com/) -- Fake online APIs
+#### [Public APIs](https://public-apis.xyz/category/text-analysis) -- A collection of public APIs
 #### [MomentJS](https://momentjs.com/) -- Using dates and times in JavaScript
 #
 ## 💆 Cheatsheets
@@ -41,12 +42,14 @@
 #### [prettier](https://prettier.io/)
 #### [Materialize-CSS](https://materializecss.com/getting-started.html) -- Google Materialize design framework
 #### [concurrently](https://www.npmjs.com/package/concurrently) -- Run multiple commands concurrently
+#### [stripe](https://www.npmjs.com/package/stripe) -- Access to *Stripe API* from applications
+#### [axios](https://www.npmjs.com/package/axios) -- Promise-based HTTP client for the broswer and nodejs
 #
 ## 📦 Bundler
 #### [parcel](https://parceljs.org/)
 #
 ## 🍪 Cookies
-#### [cookie-session](https://www.npmjs.com/package/cookie-session) -- Stuffinf all data into cookies
+#### [cookie-session](https://www.npmjs.com/package/cookie-session) -- Stuffing all data into cookies
 #### [express-session](https://www.npmjs.com/package/express-session) -- Storing all data outside cookies
 #
 ## 🕵️‍♀️ Back-end
