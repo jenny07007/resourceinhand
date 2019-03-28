@@ -14,6 +14,10 @@
 ## 🐠 Colors
 #### [Blend](http://colinkeany.com/blend/)
 #
+## 🍄 testing
+#### [Jest](https://jestjs.io/)
+#### [Enzyme](https://airbnb.io/enzyme/) - A tool for testing React components created by Airbnb
+#
 ## 🔰 React
 #### [create-react-app](/https://www.npmjs.com/package/create-react-app/)
 #### [react-router](https://reacttraining.com/react-router/)
@@ -23,6 +27,7 @@
 #### [NextJS](https://nextjs.org/) -- A server side rendered app
 #### [Formik](https://jaredpalmer.com/formik) -- Obversely, to create forms
 #### [Radium](https://formidable.com/open-source/radium/) -- Managing inline styles on React elements without CSS
+#### [Why did you render](https://github.com/welldone-software/why-did-you-render) Notifying about React re-render
 
 #
 ## 🏈 Redux
