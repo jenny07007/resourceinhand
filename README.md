@@ -11,10 +11,14 @@
 ## 💆 Cheatsheets
 #### [Rico's cheatsheets ](https://devhints.io/) -- Modern and useful cheatsheets
 #
+## Fonts
+#### [Dank Mono](https://dank.sh/) -- My fav font for the text editor
+#### [Monoid](https://larsenwork.com/monoid/)
+#
 ## 🐠 Colors
 #### [Blend](http://colinkeany.com/blend/)
 #
-## 🍄 testing
+## 🍄 Testing
 #### [Jest](https://jestjs.io/)
 #### [Enzyme](https://airbnb.io/enzyme/) - A tool for testing React components created by Airbnb
 #
@@ -28,7 +32,6 @@
 #### [Formik](https://jaredpalmer.com/formik) -- Obversely, to create forms
 #### [Radium](https://formidable.com/open-source/radium/) -- Managing inline styles on React elements without CSS
 #### [Why did you render](https://github.com/welldone-software/why-did-you-render) Notifying about React re-render
-
 #
 ## 🏈 Redux
 #### [redux](https://www.npmjs.com/package/redux) -- React library for managing states
@@ -43,12 +46,13 @@
 #### [tachyons](/https://www.npmjs.com/package/create-react-app/) -- A framework just like bootstrap
 #### [date-fns](https://date-fns.org/)
 #### [loash](https://lodash.com/)
-#### [eslint](https://eslint.org/)
-#### [prettier](https://prettier.io/)
 #### [Materialize-CSS](https://materializecss.com/getting-started.html) -- Google Materialize design framework
 #### [concurrently](https://www.npmjs.com/package/concurrently) -- Run multiple commands concurrently
 #### [stripe](https://www.npmjs.com/package/stripe) -- Access to *Stripe API* from applications
 #### [axios](https://www.npmjs.com/package/axios) -- Promise-based HTTP client for the broswer and nodejs
+#### [Classnames](https://www.npmjs.com/package/classnames) -- Conditionally joining classes together
+#### [ejs](https://www.ejs.co/#promo) -- A template language using plain JavaScript
+#### [express-ejs-layout](https://www.npmjs.com/package/express-ejs-layouts) -- Layout support for ejs in express
 #
 ## 📦 Bundler
 #### [parcel](https://parceljs.org/)
@@ -59,8 +63,9 @@
 #
 ## 🕵️‍♀️ Back-end
 #### [PostMan](https://www.getpostman.com/)
-#### [body-parse](https://www.npmjs.com/package/body-parser) -- A middleware to parse data from our codes thought HTTP requests.
+#### [body-parse](https://www.npmjs.com/package/body-parser) -- A middleware to parse data from code thought HTTP requests.
 #### [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs)
+#### [bcryptjs](https://www.npmjs.com/package/bcryptjs)
 #### [cors](https://www.npmjs.com/package/cors) -- Cross-origin(domain) Resource Sharing
 #### [express](https://expressjs.com/) -- For building the server
 #### [nodemon](https://www.npmjs.com/package/nodemon) -- Run nodemon on scrips and make sure server is running
