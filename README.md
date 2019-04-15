@@ -33,7 +33,7 @@
 #### [Formik](https://jaredpalmer.com/formik) -- Obversely, to create forms
 #### [Radium](https://formidable.com/open-source/radium/) -- Managing inline styles on React elements without CSS
 #### [Why did you render](https://github.com/welldone-software/why-did-you-render) Notifying about React re-render
-#### [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware) -- A solution to solve when the simple proxy setting does not work (or not fit your purpose) in development.
+#### [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware) -- A solution to solve the problem when the simple proxy setting does not work (or not fit your purpose) in development.
 #
 ## 🏈 Redux
 #### [redux](https://www.npmjs.com/package/redux) -- React library for managing states
@@ -69,10 +69,10 @@
 #### [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs)
 #### [bcryptjs](https://www.npmjs.com/package/bcryptjs)
 #### [cors](https://www.npmjs.com/package/cors) -- Cross-origin(domain) Resource Sharing
-#### [express](https://expressjs.com/) -- For building the server
+#### [express](https://expressjs.com/) -- For building a server
 #### [nodemon](https://www.npmjs.com/package/nodemon) -- Run nodemon on scrips and make sure server is running
 #### [passportJS](http://www.passportjs.org/) -- Authentication for Node.js
-#### [loadable components](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/) -- Coding splitting on the serve side rendering 
+#### [loadable components](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/) -- Coding splitting for the serve side rendering 
 #
 ## 👩‍💻 Database
 #### [PostgreSQL](https://www.postgresql.org/)
