@@ -14,6 +14,7 @@
 ## Fonts
 #### [Dank Mono](https://dank.sh/) -- My fav font for the text editor
 #### [Monoid](https://larsenwork.com/monoid/)
+#### [SF Mono Font](https://github.com/ZulwiyozaPutra/SF-Mono-Font) - Apple SF-Mono-Font!
 #
 ## 🐠 Colors
 #### [Blend](http://colinkeany.com/blend/)
@@ -32,6 +33,7 @@
 #### [Formik](https://jaredpalmer.com/formik) -- Obversely, to create forms
 #### [Radium](https://formidable.com/open-source/radium/) -- Managing inline styles on React elements without CSS
 #### [Why did you render](https://github.com/welldone-software/why-did-you-render) Notifying about React re-render
+#### [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware) -- A solution to solve when the simple proxy setting does not work (or not fit your purpose) in development.
 #
 ## 🏈 Redux
 #### [redux](https://www.npmjs.com/package/redux) -- React library for managing states
@@ -70,6 +72,7 @@
 #### [express](https://expressjs.com/) -- For building the server
 #### [nodemon](https://www.npmjs.com/package/nodemon) -- Run nodemon on scrips and make sure server is running
 #### [passportJS](http://www.passportjs.org/) -- Authentication for Node.js
+#### [loadable components](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/) -- Coding splitting on the serve side rendering 
 #
 ## 👩‍💻 Database
 #### [PostgreSQL](https://www.postgresql.org/)
