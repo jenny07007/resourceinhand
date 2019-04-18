@@ -11,7 +11,7 @@
 ## 💆 Cheatsheets
 #### [Rico's cheatsheets ](https://devhints.io/) -- Modern and useful cheatsheets
 #
-## Fonts
+## 💅 Fonts
 #### [Dank Mono](https://dank.sh/) -- My fav font for the text editor
 #### [Monoid](https://larsenwork.com/monoid/)
 #### [SF Mono Font](https://github.com/ZulwiyozaPutra/SF-Mono-Font) - Apple SF-Mono-Font!
@@ -59,10 +59,6 @@
 ## 📦 Bundler
 #### [parcel](https://parceljs.org/)
 #
-## 🍪 Cookies
-#### [cookie-session](https://www.npmjs.com/package/cookie-session) -- Stuffing all data into cookies
-#### [express-session](https://www.npmjs.com/package/express-session) -- Storing all data outside cookies
-#
 ## 🕵️‍♀️ Back-end
 #### [PostMan](https://www.getpostman.com/)
 #### [body-parse](https://www.npmjs.com/package/body-parser) -- A middleware to parse data from code thought HTTP requests.
@@ -77,8 +73,20 @@
 ## 👩‍💻 Database
 #### [PostgreSQL](https://www.postgresql.org/)
 #### [psequel GUI](http://www.psequel.com/)
-#### [knex](https://knexjs.org/#Builder-where)
 #### [pg-promise](https://github.com/vitaly-t/pg-promise)
 #### [Firebase](https://www.npmjs.com/package/firebase) -- Google Firebase with React
 #### [mlab](https://mlab.com/) -- Making MongoDb much easier 
 #### [mongoose](https://mongoosejs.com/) -- MongoDb object modeling for node.js
+#
+## 😱 Security 
+#### [helmet](https://www.npmjs.com/package/helmet) - Setting various HTTP headers on Express apps
+#### [csurf](https://www.npmjs.com/package/morgan) - Node.js CSRF protention middleware
+#### [winston](https://www.npmjs.com/package/winston) - A Logger about every thing
+#### [knex](https://knexjs.org/#Builder-where) - ORM(Obect Relational Mapper)
+#### [morgan](https://www.npmjs.com/package/morgan) -- HTTP request logger middleware for node.js
+#
+## 🍪 Cookies
+#### [cookie-session](https://www.npmjs.com/package/cookie-session) -- Stuffing all data into cookies
+#### [express-session](https://www.npmjs.com/package/express-session) -- Storing all data outside cookies
+
+
