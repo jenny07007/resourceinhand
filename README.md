@@ -6,13 +6,14 @@
 #### [Dillinger](https://dillinger.io/) -- Editing markdown document and previewing it directly
 #### [JSONPlaceholder](https://jsonplaceholder.typicode.com/) -- Fake online APIs
 #### [Public APIs](https://public-apis.xyz/category/text-analysis) -- A collection of public APIs
-#### [MomentJS](https://momentjs.com/) -- Using dates and times in JavaScript
+#### [MomentJS](https://momentjs.com/) -- Using date and time in JavaScript
+#### [Modernizr](https://modernizr.com/) -- Delivering experiences by detecting HTML5 and CSS3 features in various broswers
 #
 ## 💆 Cheatsheets
 #### [Rico's cheatsheets ](https://devhints.io/) -- Modern and useful cheatsheets
 #
 ## 💅 Fonts
-#### [Dank Mono](https://dank.sh/) -- My fav font for the text editor
+#### [Dank Mono](https://dank.sh/) 
 #### [Monoid](https://larsenwork.com/monoid/)
 #### [SF Mono Font](https://github.com/ZulwiyozaPutra/SF-Mono-Font) - Apple SF-Mono-Font!
 #
@@ -82,7 +83,7 @@
 #### [helmet](https://www.npmjs.com/package/helmet) - Setting various HTTP headers on Express apps
 #### [csurf](https://www.npmjs.com/package/morgan) - Node.js CSRF protention middleware
 #### [winston](https://www.npmjs.com/package/winston) - A Logger about every thing
-#### [knex](https://knexjs.org/#Builder-where) - ORM(Obect Relational Mapper)
+#### [knex](https://knexjs.org/#Builder-where) - ORM(Object Relational Mapper)
 #### [morgan](https://www.npmjs.com/package/morgan) -- HTTP request logger middleware for node.js
 #
 ## 🍪 Cookies
