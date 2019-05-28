@@ -89,5 +89,16 @@
 ## 🍪 Cookies
 #### [cookie-session](https://www.npmjs.com/package/cookie-session) -- Stuffing all data into cookies
 #### [express-session](https://www.npmjs.com/package/express-session) -- Storing all data outside cookies
+#
+___
+#
+## 🍎 iOS - Swift
+#### [cocoapods](https://cocoapods.org/) -- A dependency manager for Swift
+#### [Alamofire](https://github.com/Alamofire/Alamofire) -- Handling HTTP request in Swift
+#### [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) -- Handling JSON data in Swift
+
+
+
+
 
 
