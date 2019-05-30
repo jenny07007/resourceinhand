@@ -56,6 +56,7 @@
 #### [Classnames](https://www.npmjs.com/package/classnames) -- Conditionally joining classes together
 #### [ejs](https://www.ejs.co/#promo) -- A template language using plain JavaScript
 #### [express-ejs-layout](https://www.npmjs.com/package/express-ejs-layouts) -- Layout support for ejs in express
+#### [dotenv](https://www.npmjs.com/package/dotenv) -- Loads environment variables from .env into process.env
 #
 ## 📦 Bundler
 #### [parcel](https://parceljs.org/)
