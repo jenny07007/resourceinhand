@@ -70,7 +70,7 @@
 
 #### [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware) -- A solution to solve the problem when the simple proxy setting does not work (or not fit your purpose) in development.
 
-#### [https://www.npmjs.com/package/react-infinite-scroll-component] -- Infinite scrolling
+#### [react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component) -- Infinite scrolling
 
 #
 
