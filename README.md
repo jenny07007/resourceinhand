@@ -88,6 +88,7 @@
 
 #### [react-redux-firebase](http://react-redux-firebase.com/) -- Using firebase with react and redux
 
+#### [connected-react-router](https://www.npmjs.com/package/connected-react-router) -- A Redux binding for React Router v4 and v5
 #
 
 ## 🏄 npm
