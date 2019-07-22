@@ -131,9 +131,9 @@
 
 #### [body-parse](https://www.npmjs.com/package/body-parser) -- A middleware to parse data from code thought HTTP requests.
 
-#### [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs)
+#### [bcryptjs](https://www.npmjs.com/package/bcryptjs) -- Store hash in PW DB
 
-#### [bcryptjs](https://www.npmjs.com/package/bcryptjs)
+#### [node-argon2](https://www.npmjs.com/package/argon2) -- Store hash in PW DB
 
 #### [cors](https://www.npmjs.com/package/cors) -- Cross-origin(domain) Resource Sharing
 
