@@ -175,6 +175,7 @@
 
 #### [morgan](https://www.npmjs.com/package/morgan) -- HTTP request logger middleware for node.js
 
+#### [snyk](https://www.npmjs.com/package/snyk) -- Find and fix vulnerabilities of 3rd party libraries
 #
 
 ## 🍪 Cookies
