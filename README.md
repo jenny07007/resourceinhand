@@ -52,7 +52,7 @@
 
 #### [create-react-app](/https://www.npmjs.com/package/create-react-app/)
 
-#### [react-router](https://reacttraining.com/react-router/)
+#### [react-router-dom](https://reacttraining.com/react-router/)
 
 #### [Ramda](https://ramdajs.com/) -- Functional library for JavaScript
 
