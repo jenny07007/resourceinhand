@@ -2,8 +2,6 @@
 
 #### [glot](https://glot.io/)
 
-#### [repl.it](https://repl.it/)
-
 #### [Robohash](https://robohash.org/)
 
 #### [Dillinger](https://dillinger.io/) -- Editing markdown document and previewing it directly
@@ -47,6 +45,12 @@
 #### [Jest](https://jestjs.io/)
 
 #### [Enzyme](https://airbnb.io/enzyme/) - A tool for testing React components created by Airbnb
+
+#
+
+## 🚔 CI/CD
+
+#### [CircleCI](https://circleci.com/)
 
 #
 
@@ -101,7 +105,7 @@
 
 #### [date-fns](https://date-fns.org/)
 
-#### [loash](https://lodash.com/)
+#### [lodash](https://lodash.com/)
 
 #### [Materialize-CSS](https://materializecss.com/getting-started.html) -- Google Materialize design framework
 
@@ -188,9 +192,6 @@
 
 #
 
----
-
-#
 
 ## 🍎 iOS - Swift
 
