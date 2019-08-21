@@ -46,6 +46,8 @@
 
 #### [Enzyme](https://airbnb.io/enzyme/) - A tool for testing React components created by Airbnb
 
+#### [enzyme-adapter-react-16](https://www.npmjs.com/package/enzyme-adapter-react-16)
+
 #
 
 ## 🚔 CI/CD
