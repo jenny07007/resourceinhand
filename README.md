@@ -8,13 +8,15 @@
 
 #### [JSONPlaceholder](https://jsonplaceholder.typicode.com/) -- Fake online APIs
 
-#### [Public APIs](https://public-apis.xyz/category/text-analysis) -- A collection of public APIs
+#### [Public APIs](https://public-apis.xyz/) -- A collection of public APIs
 
 #### [MomentJS](https://momentjs.com/) -- Using date and time in JavaScript
 
 #### [Modernizr](https://modernizr.com/) -- Delivering experiences by detecting HTML5 and CSS3 features in various broswers
 
 #### [JOSN Server](https://www.npmjs.com/package/json-server) -- a fake REST API server
+
+#### [JSON Schema Generator](https://www.jsonschema.net/)
 
 #
 
@@ -47,6 +49,8 @@
 #### [Enzyme](https://airbnb.io/enzyme/) - A tool for testing React components created by Airbnb
 
 #### [enzyme-adapter-react-16](https://www.npmjs.com/package/enzyme-adapter-react-16)
+
+#### [moxios](https://www.npmjs.com/package/moxios) -- Mock axios requests for testing
 
 #
 
@@ -97,6 +101,7 @@
 #### [react-redux-firebase](http://react-redux-firebase.com/) -- Using firebase with react and redux
 
 #### [connected-react-router](https://www.npmjs.com/package/connected-react-router) -- A Redux binding for React Router v4 and v5
+
 #
 
 ## 🏄 npm
@@ -153,6 +158,8 @@
 
 #### [loadable components](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/) -- Coding splitting for the serve side rendering
 
+#### [pm2](https://pm2.keymetrics.io/) -- cluster manager for Node.js
+
 #
 
 ## 👩‍💻 Database
@@ -184,6 +191,7 @@
 #### [morgan](https://www.npmjs.com/package/morgan) -- HTTP request logger middleware for node.js
 
 #### [snyk](https://www.npmjs.com/package/snyk) -- Find and fix vulnerabilities of 3rd party libraries
+
 #
 
 ## 🍪 Cookies
@@ -193,7 +201,6 @@
 #### [express-session](https://www.npmjs.com/package/express-session) -- Storing all data outside cookies
 
 #
-
 
 ## 🍎 iOS - Swift
 
