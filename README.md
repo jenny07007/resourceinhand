@@ -156,6 +156,8 @@
 
 #### [passportJS](http://www.passportjs.org/) -- Authentication for Node.js
 
+#### [jwt-simple](https://www.npmjs.com/package/jwt-simple) -- JSON Web Token encode and decode module for Node,js
+
 #### [loadable components](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/) -- Coding splitting for the serve side rendering
 
 #### [pm2](https://pm2.keymetrics.io/) -- cluster manager for Node.js
