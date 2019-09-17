@@ -209,6 +209,7 @@
 ## 🌼 graphQL
 
 #### [graphql-yoga](https://www.npmjs.com/package/graphql-yoga) -- graphQL server
+#### [babel-plugin-transform-object-rest-spread](https://www.npmjs.com/package/babel-plugin-transform-object-rest-spread) -- using spread operator with Nodejs
 
 #
 
