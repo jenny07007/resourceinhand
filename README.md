@@ -136,6 +136,8 @@
 
 #### [parcel](https://parceljs.org/)
 
+#### [webpack-node-externals](https://www.npmjs.com/package/webpack-node-externals) -- to define which modules that should not be bundled. (externals)
+
 #
 
 ## 🕵️‍♀️ Back-end
@@ -201,6 +203,12 @@
 #### [cookie-session](https://www.npmjs.com/package/cookie-session) -- Stuffing all data into cookies
 
 #### [express-session](https://www.npmjs.com/package/express-session) -- Storing all data outside cookies
+
+#
+
+## 🌼 graphQL
+
+#### [graphql-yoga](https://www.npmjs.com/package/graphql-yoga) -- graphQL server
 
 #
 
