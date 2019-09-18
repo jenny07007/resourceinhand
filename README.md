@@ -1,3 +1,10 @@
+| [Tools](#-tools) | [Cheatsheets](#-cheatsheets) | [Fonts](#-fonts) | [Colors](#-colors) 
+| [Testing](#-testing) | [CI/CD](#-cicd)| [React](#-react) | [Redux](#-redux) 
+| [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#-back-end) | [Database](#-database) 
+| [Security](#-security) | [Cookies](#-cookies) | [Cookies](#-cookies) | [iOS - Swift](#-ios---swift) | 
+
+#
+
 ## 🍺 Tools
 
 #### [glot](https://glot.io/)
