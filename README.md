@@ -108,13 +108,13 @@
 
 #### [npm-check-updates](https://www.getpostman.com/) -- Upgrading package.json dependencies to the latest versions, ignoring specified versions.
 
+#### [npm-run-all](https://www.npmjs.com/package/npm-run-all) -- Run multiple npm scripts in parallel
+
 #### [tachyons](/https://www.npmjs.com/package/create-react-app/) -- A framework just like bootstrap
 
 #### [date-fns](https://date-fns.org/)
 
 #### [lodash](https://lodash.com/)
-
-#### [Materialize-CSS](https://materializecss.com/getting-started.html) -- Google Materialize design framework
 
 #### [concurrently](https://www.npmjs.com/package/concurrently) -- Run multiple commands concurrently
 
@@ -141,8 +141,6 @@
 #
 
 ## 🕵️‍♀️ Back-end
-
-#### [PostMan](https://www.getpostman.com/)
 
 #### [body-parse](https://www.npmjs.com/package/body-parser) -- A middleware to parse data from code thought HTTP requests.
 
@@ -209,6 +207,7 @@
 ## 🌼 graphQL
 
 #### [graphql-yoga](https://www.npmjs.com/package/graphql-yoga) -- graphQL server
+
 #### [babel-plugin-transform-object-rest-spread](https://www.npmjs.com/package/babel-plugin-transform-object-rest-spread) -- using spread operator with Nodejs
 
 #
