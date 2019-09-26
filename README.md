@@ -91,6 +91,8 @@
 
 #### [react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component) -- Infinite scrolling
 
+#### [React Router Config](https://www.npmjs.com/package/react-router-config) -- A helper for server side rendering(React Router)
+
 #
 
 ## 🏈 Redux
