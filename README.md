@@ -27,9 +27,9 @@
 
 #
 
-## 💆 Cheatsheets
+## 💆 Style
 
-#### [Rico's cheatsheets ](https://devhints.io/) -- Modern and useful cheatsheets
+#### [Masonry](https://masonry.desandro.com/) -- Javscript grid layout libaray
 
 #
 
