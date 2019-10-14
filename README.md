@@ -25,6 +25,7 @@
 
 #### [JSON Schema Generator](https://www.jsonschema.net/)
 
+#### [GreenStock](https://greensock.com/) -- Animations
 #
 
 ## 💆 Style
