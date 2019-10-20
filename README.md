@@ -26,6 +26,8 @@
 #### [JSON Schema Generator](https://www.jsonschema.net/)
 
 #### [GreenStock](https://greensock.com/) -- Animations
+
+#### [Docusaurus](https://docusaurus.io/en/) -- Mataining documentations
 #
 
 ## 💆 Style
