@@ -28,6 +28,8 @@
 #### [GreenStock](https://greensock.com/) -- Animations
 
 #### [Docusaurus](https://docusaurus.io/en/) -- Mataining documentations
+
+#### [serverless](https://serverless.com/) -- Serverless framework
 #
 
 ## 💆 Style
