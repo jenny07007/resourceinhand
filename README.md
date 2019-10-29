@@ -146,6 +146,7 @@
 
 #### [dotenv](https://www.npmjs.com/package/dotenv) -- Loads environment variables from .env into process.env
 
+#### [loadtest](https://www.npmjs.com/package/loadtest) -- Runs load tests
 #
 
 ## 📦 Bundler
