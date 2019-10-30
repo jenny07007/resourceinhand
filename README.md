@@ -1,7 +1,7 @@
 | [Tools](#-tools) | [Cheatsheets](#-cheatsheets) | [Fonts](#-fonts) | [Colors](#-colors) 
 | [Testing](#-testing) | [CI/CD](#-cicd)| [React](#-react) | [Redux](#-redux) 
 | [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#-back-end) | [Database](#-database) 
-| [Security](#-security) | [Cookies](#-cookies) | [Cookies](#-cookies) | [iOS - Swift](#-ios---swift) | 
+| [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [iOS - Swift](#-ios---swift) | 
 
 #
 
@@ -226,6 +226,8 @@
 #### [graphql-yoga](https://www.npmjs.com/package/graphql-yoga) -- graphQL server
 
 #### [babel-plugin-transform-object-rest-spread](https://www.npmjs.com/package/babel-plugin-transform-object-rest-spread) -- using spread operator with Nodejs
+
+#### [dataloader](https://github.com/graphql/dataloader) -- caching the resolvers inside GraphQL server
 
 #
 
