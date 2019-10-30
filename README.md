@@ -229,6 +229,11 @@
 
 #### [dataloader](https://github.com/graphql/dataloader) -- caching the resolvers inside GraphQL server
 
+#### [prisma](https://www.prisma.io/)
+
+#### [hasura](https://hasura.io/)
+
+#### [graphql-everywhere](https://github.com/apollographql/apollo-client/tree/master/packages/graphql-anywhere)
 #
 
 ## 🍎 iOS - Swift
