@@ -36,6 +36,10 @@
 
 #### [Masonry](https://masonry.desandro.com/) -- Javscript grid layout libaray
 
+#### [hamburgers](https://jonsuh.com/hamburgers/) -- CSS examples of humbergers
+
+#### [chakra-ui](https://chakra-ui.com/) -- React-based UI library
+
 #
 
 ## 💅 Fonts
