@@ -30,6 +30,8 @@
 #### [Docusaurus](https://docusaurus.io/en/) -- Mataining documentations
 
 #### [serverless](https://serverless.com/) -- Serverless framework
+
+#### [Yup](https://github.com/jquense/yup) -- JS object schema validator
 #
 
 ## 💆 Style
@@ -181,7 +183,7 @@
 
 #### [loadable components](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/) -- Coding splitting for the serve side rendering
 
-#### [pm2](https://pm2.keymetrics.io/) -- cluster manager for Node.js
+#### [pm2](https://pm2.keymetrics.io/) -- Cluster manager for Node.js
 
 #
 
