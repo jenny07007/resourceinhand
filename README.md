@@ -1,7 +1,7 @@
-| [Tools](#-tools) | [Cheatsheets](#-cheatsheets) | [Fonts](#-fonts) | [Colors](#-colors) 
-| [Testing](#-testing) | [CI/CD](#-cicd)| [React](#-react) | [Redux](#-redux) 
-| [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#-back-end) | [Database](#-database) 
-| [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [iOS - Swift](#-ios---swift) | 
+| [Tools](#-tools) | [Cheatsheets](#-cheatsheets) | [Fonts](#-fonts) | [Colors](#-colors)
+| [Testing](#-testing) | [CI/CD](#-cicd)| [React](#-react) | [Redux](#-redux)
+| [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#-back-end) | [Database](#-database)
+| [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [iOS - Swift](#-ios---swift) |
 
 #
 
@@ -34,6 +34,7 @@
 #### [serverless](https://serverless.com/) -- Serverless framework
 
 #### [Yup](https://github.com/jquense/yup) -- JS object schema validator
+
 #
 
 ## 💆 Style
@@ -155,6 +156,9 @@
 #### [dotenv](https://www.npmjs.com/package/dotenv) -- Loads environment variables from .env into process.env
 
 #### [loadtest](https://www.npmjs.com/package/loadtest) -- Runs load tests
+
+#### [path-parser](https://github.com/troch/path-parser)
+
 #
 
 ## 📦 Bundler
@@ -242,6 +246,7 @@
 #### [hasura](https://hasura.io/)
 
 #### [graphql-everywhere](https://github.com/apollographql/apollo-client/tree/master/packages/graphql-anywhere)
+
 #
 
 ## 🍎 iOS - Swift
