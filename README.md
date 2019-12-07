@@ -35,7 +35,11 @@
 
 #### [Yup](https://github.com/jquense/yup) -- JS object schema validator
 
-#
+#### [matter.js](https://brm.io/matter-js/) -- A 2D physics engine for the web
+
+#### [stripe](https://www.npmjs.com/package/stripe) -- Access to _Stripe API_ from applications
+
+#### [axios](https://www.npmjs.com/package/axios) -- Promise-based HTTP client for the broswer and nodejs
 
 ## 💆 Style
 
@@ -44,6 +48,8 @@
 #### [hamburgers](https://jonsuh.com/hamburgers/) -- CSS examples of humbergers
 
 #### [chakra-ui](https://chakra-ui.com/) -- React-based UI library
+
+#### [tachyons](/https://www.npmjs.com/package/create-react-app/) -- A framework just like bootstrap
 
 #
 
@@ -135,17 +141,11 @@
 
 #### [npm-run-all](https://www.npmjs.com/package/npm-run-all) -- Run multiple npm scripts in parallel
 
-#### [tachyons](/https://www.npmjs.com/package/create-react-app/) -- A framework just like bootstrap
-
 #### [date-fns](https://date-fns.org/)
 
 #### [lodash](https://lodash.com/)
 
 #### [concurrently](https://www.npmjs.com/package/concurrently) -- Run multiple commands concurrently
-
-#### [stripe](https://www.npmjs.com/package/stripe) -- Access to _Stripe API_ from applications
-
-#### [axios](https://www.npmjs.com/package/axios) -- Promise-based HTTP client for the broswer and nodejs
 
 #### [Classnames](https://www.npmjs.com/package/classnames) -- Conditionally joining classes together
 
@@ -158,6 +158,8 @@
 #### [loadtest](https://www.npmjs.com/package/loadtest) -- Runs load tests
 
 #### [path-parser](https://github.com/troch/path-parser)
+
+#### [chalk](https://www.npmjs.com/package/chalk) -- Terminal string styling package
 
 #
 
