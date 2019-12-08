@@ -161,6 +161,10 @@
 
 #### [chalk](https://www.npmjs.com/package/chalk) -- Terminal string styling package
 
+#### [chokidar](https://www.npmjs.com/package/chokidar) -- Keep watching files change
+
+#### [caporal](https://www.npmjs.com/package/caporal) -- Build command line application(CLI) with nodejs
+
 #
 
 ## 📦 Bundler
