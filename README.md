@@ -41,6 +41,10 @@
 
 #### [axios](https://www.npmjs.com/package/axios) -- Promise-based HTTP client for the broswer and nodejs
 
+#### [express-validator](https://www.npmjs.com/package/express-validator) -- A middleware for validator
+
+#
+
 ## 💆 Style
 
 #### [Masonry](https://masonry.desandro.com/) -- Javscript grid layout libaray
