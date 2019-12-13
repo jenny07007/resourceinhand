@@ -183,6 +183,8 @@
 
 #### [body-parse](https://www.npmjs.com/package/body-parser) -- A middleware to parse data from code thought HTTP requests.
 
+#### [multer](https://www.npmjs.com/package/multer) -- a nodejs middleware for handling multipart/form-data
+
 #### [bcryptjs](https://www.npmjs.com/package/bcryptjs) -- Store hash in PW DB
 
 #### [node-argon2](https://www.npmjs.com/package/argon2) -- Store hash in PW DB
