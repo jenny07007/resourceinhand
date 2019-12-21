@@ -83,6 +83,10 @@
 
 #### [moxios](https://www.npmjs.com/package/moxios) -- Mock axios requests for testing
 
+#### [mocha](https://mochajs.org/)
+
+#### [jsdom](https://www.npmjs.com/package/jsdom) -- something kind of like a fake broswer inside of NodeJS
+
 #
 
 ## 🚔 CI/CD
