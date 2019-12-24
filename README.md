@@ -161,6 +161,8 @@
 
 #### [express-ejs-layout](https://www.npmjs.com/package/express-ejs-layouts) -- Layout support for ejs in express
 
+#### [hbs](https://github.com/pillarjs/hbs) -- View engine for express
+
 #### [dotenv](https://www.npmjs.com/package/dotenv) -- Loads environment variables from .env into process.env
 
 #### [loadtest](https://www.npmjs.com/package/loadtest) -- Runs load tests
