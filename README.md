@@ -123,6 +123,10 @@
 
 #### [Emotion](https://emotion.sh/docs/introduction) -- Doing styling in JS
 
+#### [react-copy-to-clipboard](https://www.npmjs.com/package/react-copy-to-clipboard)
+
+##### [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Notifies you why a certain component is rendered
+
 #
 
 ## 🏈 Redux
