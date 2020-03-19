@@ -29,7 +29,7 @@
 
 #### [GreenStock](https://greensock.com/) -- Animations
 
-#### [Docusaurus](https://docusaurus.io/en/) -- Mataining documentations
+#### [Docusaurus](https://docusaurus.io/en/) -- Maintaining documentations
 
 #### [serverless](https://serverless.com/) -- Serverless framework
 
@@ -49,7 +49,7 @@
 
 #### [Masonry](https://masonry.desandro.com/) -- Javscript grid layout libaray
 
-#### [hamburgers](https://jonsuh.com/hamburgers/) -- CSS examples of humbergers
+#### [hamburgers](https://jonsuh.com/hamburgers/) -- CSS examples of hamburgers
 
 #### [chakra-ui](https://chakra-ui.com/) -- React-based UI library
 
@@ -86,6 +86,8 @@
 #### [mocha](https://mochajs.org/)
 
 #### [jsdom](https://www.npmjs.com/package/jsdom) -- something kind of like a fake broswer inside of NodeJS
+
+#### [cypress](https://github.com/cypress-io/cypress) -- E2E testing framework
 
 #
 
@@ -125,7 +127,9 @@
 
 #### [react-copy-to-clipboard](https://www.npmjs.com/package/react-copy-to-clipboard)
 
-##### [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Notifies you why a certain component is rendered
+#### [react-color](https://casesandberg.github.io/react-color/) - a collection of color pickers
+
+#### [react-material-ui-form-validator](react-material-ui-form-validator) - validation component for material-ui forms
 
 #
 
@@ -179,6 +183,8 @@
 
 #### [caporal](https://www.npmjs.com/package/caporal) -- Build command line application(CLI) with nodejs
 
+#### [node-redis](https://www.npmjs.com/package/redis) - Redis client for Node.js
+
 #
 
 ## 📦 Bundler
@@ -212,6 +218,8 @@
 #### [loadable components](https://www.smooth-code.com/open-source/loadable-components/docs/getting-started/) -- Coding splitting for the serve side rendering
 
 #### [pm2](https://pm2.keymetrics.io/) -- Cluster manager for Node.js
+
+#### [aws-sdk](https://www.npmjs.com/package/aws-sdk) - AWS SDK for JS
 
 #
 
@@ -268,6 +276,12 @@
 #### [hasura](https://hasura.io/)
 
 #### [graphql-everywhere](https://github.com/apollographql/apollo-client/tree/master/packages/graphql-anywhere)
+
+#
+
+## 🐳 Kubernetes / Docker
+
+#### [ingress-nginx](https://github.com/kubernetes/ingress-nginx) -- NGINX Ingress controller for Kubernetes 
 
 #
 
