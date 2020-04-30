@@ -1,7 +1,7 @@
 | [Tools](#-tools) | [Cheatsheets](#-cheatsheets) | [Fonts](#-fonts) | [Colors](#-colors)
 | [Testing](#-testing) | [CI/CD](#-cicd)| [React](#-react) | [Redux](#-redux)
 | [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#-back-end) | [Database](#-database)
-| [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [iOS - Swift](#-ios---swift) |
+| [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [Kubernetes / Docker](#-kubernetes--docker) | [iOS - Swift](#-ios---swift) |
 
 #
 
@@ -15,9 +15,9 @@
 
 #### [JSONPlaceholder](https://jsonplaceholder.typicode.com/) -- Fake online APIs
 
-#### [Public APIs](https://public-apis.xyz/) -- A collection of public APIs
+#### [faker](https://github.com/Marak/Faker.js) -- Generating massive amounts of realistic fake data in Node.js and the browser
 
-#### [MomentJS](https://momentjs.com/) -- Using date and time in JavaScript
+#### [Public APIs](https://public-apis.xyz/) -- A collection of public APIs
 
 #### [Modernizr](https://modernizr.com/) -- Delivering experiences by detecting HTML5 and CSS3 features in various broswers
 
@@ -40,8 +40,6 @@
 #### [stripe](https://www.npmjs.com/package/stripe) -- Access to _Stripe API_ from applications
 
 #### [axios](https://www.npmjs.com/package/axios) -- Promise-based HTTP client for the broswer and nodejs
-
-#### [express-validator](https://www.npmjs.com/package/express-validator) -- A middleware for validator
 
 #
 
@@ -127,9 +125,11 @@
 
 #### [react-copy-to-clipboard](https://www.npmjs.com/package/react-copy-to-clipboard)
 
-#### [react-color](https://casesandberg.github.io/react-color/) - a collection of color pickers
+#### [react-color](https://casesandberg.github.io/react-color/) - A collection of color pickers
 
-#### [react-material-ui-form-validator](react-material-ui-form-validator) - validation component for material-ui forms
+#### [react-material-ui-form-validator](react-material-ui-form-validator) - Validation component for material-ui forms
+
+#### [react-ga](https://github.com/react-ga/react-ga) - React Google Analytics module
 
 #
 
@@ -158,6 +158,8 @@
 #### [npm-run-all](https://www.npmjs.com/package/npm-run-all) -- Run multiple npm scripts in parallel
 
 #### [date-fns](https://date-fns.org/)
+
+#### [MomentJS](https://momentjs.com/) -- Using date and time in JavaScript
 
 #### [lodash](https://lodash.com/)
 
@@ -189,7 +191,7 @@
 
 ## 📦 Bundler
 
-#### [parcel](https://parceljs.org/)
+#### [parcel](https://parceljs.org/) -- helpful when running Typescript in the browser
 
 #### [webpack-node-externals](https://www.npmjs.com/package/webpack-node-externals) -- to define which modules that should not be bundled. (externals)
 
@@ -208,6 +210,10 @@
 #### [cors](https://www.npmjs.com/package/cors) -- Cross-origin(domain) Resource Sharing
 
 #### [express](https://expressjs.com/) -- For building a server
+
+#### [express-validator](https://www.npmjs.com/package/express-validator) -- A middleware for validator
+
+#### [compression](https://github.com/expressjs/compression) -- Node.js compression middleware
 
 #### [nodemon](https://www.npmjs.com/package/nodemon) -- Run nodemon on scrips and make sure server is running
 
@@ -253,6 +259,10 @@
 
 #### [snyk](https://www.npmjs.com/package/snyk) -- Find and fix vulnerabilities of 3rd party libraries
 
+#### [express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Limiting repeated requests to api or endpoints for Express
+
+#### [mongo-sanitize](https://github.com/vkarpov15/mongo-sanitize#readme) - Sanitising inputs against query selector injection attacks
+
 #
 
 ## 🍪 Cookies
@@ -281,7 +291,7 @@
 
 ## 🐳 Kubernetes / Docker
 
-#### [ingress-nginx](https://github.com/kubernetes/ingress-nginx) -- NGINX Ingress controller for Kubernetes 
+#### [ingress-nginx](https://github.com/kubernetes/ingress-nginx) -- NGINX Ingress controller for Kubernetes
 
 #
 
