@@ -149,6 +149,8 @@
 
 #### [connected-react-router](https://www.npmjs.com/package/connected-react-router) -- A Redux binding for React Router v4 and v5
 
+#### [reselect](https://github.com/reduxjs/reselect) - Memorising and not re-rendering a component if the state does not change 
+
 #
 
 ## 🏄 npm
