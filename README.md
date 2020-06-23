@@ -1,4 +1,4 @@
-| [Tools](#-tools) | [Cheatsheets](#-cheatsheets) | [Fonts](#-fonts) | [Colors](#-colors)
+| [Tools](#-tools) | [Fonts](#-fonts) | [Colors](#-colors)
 | [Testing](#-testing) | [CI/CD](#-cicd)| [React](#-react) | [Redux](#-redux)
 | [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#-back-end) | [Database](#-database)
 | [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [Kubernetes / Docker](#-kubernetes--docker) | [iOS - Swift](#-ios---swift) |
@@ -43,7 +43,7 @@
 
 #
 
-## 💆 Style
+## 💆 Styling
 
 #### [Masonry](https://masonry.desandro.com/) -- Javscript grid layout libaray
 
@@ -94,6 +94,11 @@
 #### [CircleCI](https://circleci.com/)
 
 #
+## 👯‍♀️👯👯‍♂️ 3D graphics
+
+### [canvas-sketch](https://github.com/mattdesl/canvas-sketch) - Creating generative artwork with JS
+
+#
 
 ## 🔰 React
 
@@ -139,7 +144,7 @@
 
 #### [redux-react](https://www.npmjs.com/package/react-redux) -- Connecting redux to react
 
-#### [redux-logger](https://www.npmjs.com/package/redux-logger) -- Middleware for redux
+#### [redux-logger](https://www.npmjs.com/package/redux-logger) -- A middleware for redux
 
 #### [redux-thunk](https://www.npmjs.com/package/redux-thunk) -- Handling async in Redux
 
@@ -150,6 +155,10 @@
 #### [connected-react-router](https://www.npmjs.com/package/connected-react-router) -- A Redux binding for React Router v4 and v5
 
 #### [reselect](https://github.com/reduxjs/reselect) - Memorising and not re-rendering a component if the state does not change 
+
+#### [redux-persist](https://github.com/rt2zz/redux-persist) - Persisting and rehydrating a redux store
+
+#### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React 
 
 #
 
@@ -175,8 +184,6 @@
 
 #### [hbs](https://github.com/pillarjs/hbs) -- View engine for express
 
-#### [dotenv](https://www.npmjs.com/package/dotenv) -- Loads environment variables from .env into process.env
-
 #### [loadtest](https://www.npmjs.com/package/loadtest) -- Runs load tests
 
 #### [path-parser](https://github.com/troch/path-parser)
@@ -200,6 +207,8 @@
 #
 
 ## 🕵️‍♀️ Back-end
+
+#### [dotenv](https://www.npmjs.com/package/dotenv) -- Loads environment variables from .env into process.env
 
 #### [body-parse](https://www.npmjs.com/package/body-parser) -- A middleware to parse data from code thought HTTP requests.
 
