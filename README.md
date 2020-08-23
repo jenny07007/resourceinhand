@@ -41,6 +41,8 @@
 
 #### [axios](https://www.npmjs.com/package/axios) -- Promise-based HTTP client for the broswer and nodejs
 
+#### [shortId](https://github.com/dylang/shortid) -- Generating short ids
+
 #
 
 ## 💆 Styling
@@ -94,7 +96,8 @@
 #### [CircleCI](https://circleci.com/)
 
 #
-## 👯‍♀️👯👯‍♂️ 3D graphics
+
+## 👯‍♀️ 3D graphics
 
 ### [canvas-sketch](https://github.com/mattdesl/canvas-sketch) - Creating generative artwork with JS
 
@@ -136,6 +139,8 @@
 
 #### [react-ga](https://github.com/react-ga/react-ga) - React Google Analytics module
 
+#### [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) -- A lean Prism highlighter component for React
+
 #
 
 ## 🏈 Redux
@@ -154,11 +159,11 @@
 
 #### [connected-react-router](https://www.npmjs.com/package/connected-react-router) -- A Redux binding for React Router v4 and v5
 
-#### [reselect](https://github.com/reduxjs/reselect) - Memorising and not re-rendering a component if the state does not change 
+#### [reselect](https://github.com/reduxjs/reselect) - Memorising and not re-rendering a component if the state does not change
 
 #### [redux-persist](https://github.com/rt2zz/redux-persist) - Persisting and rehydrating a redux store
 
-#### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React 
+#### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React
 
 #
 
@@ -253,6 +258,8 @@
 #### [mlab](https://mlab.com/) -- Making MongoDb much easier
 
 #### [mongoose](https://mongoosejs.com/) -- MongoDb object modeling for node.js
+
+#### [strapi](https://github.com/strapi/strapi) -- Node.js headless CMS
 
 #
 
