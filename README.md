@@ -43,6 +43,8 @@
 
 #### [shortId](https://github.com/dylang/shortid) -- Generating short ids
 
+#### [Ramda](https://ramdajs.com/) -- Functional library for JavaScript
+
 #
 
 ## 💆 Styling
@@ -109,8 +111,6 @@
 
 #### [react-router-dom](https://reacttraining.com/react-router/)
 
-#### [Ramda](https://ramdajs.com/) -- Functional library for JavaScript
-
 #### [glamorous](https://glamorous.rocks/) -- Maintainable CSS
 
 #### [gatsby](https://www.gatsbyjs.org/) -- Building static website
@@ -140,6 +140,8 @@
 #### [react-ga](https://github.com/react-ga/react-ga) - React Google Analytics module
 
 #### [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) -- A lean Prism highlighter component for React
+
+#### [react-query](https://react-query.tanstack.com/docs/overview) -- Fetch, cache and update data in the React/React native app
 
 #
 
