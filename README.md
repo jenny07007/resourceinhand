@@ -143,6 +143,20 @@
 
 #### [react-query](https://react-query.tanstack.com/docs/overview) -- Fetch, cache and update data in the React/React native app
 
+## 📟 React codebases
+
+#### [Simorgh by the BBC](https://github.com/bbc/simorgh)
+
+#### [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) -- TypeScript, Express, Material UI, Formilk
+
+#### [FauxJira](https://github.com/FauxJira/FauxJira) -- React, TypeORM(typescript), Postgres, Styled-components
+
+#### [spectrum](spectrum) -- Flow| GraphQL(Apollo) | Redux | React(Hooks) | Express
+
+#### [excalidraw](https://github.com/excalidraw/excalidraw/)
+
+#### [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+
 #
 
 ## 🏈 Redux
