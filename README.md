@@ -87,9 +87,11 @@
 
 #### [mocha](https://mochajs.org/)
 
-#### [jsdom](https://www.npmjs.com/package/jsdom) -- something kind of like a fake broswer inside of NodeJS
+#### [jsdom](https://www.npmjs.com/package/jsdom) -- Something kind of like a fake broswer inside of NodeJS
 
 #### [cypress](https://github.com/cypress-io/cypress) -- E2E testing framework
+
+#### [redux-mock-store](https://www.npmjs.com/package/redux-mock-store) -- A mock store for testing Redux async action creators and middleware
 
 #
 
@@ -215,7 +217,9 @@
 
 #### [caporal](https://www.npmjs.com/package/caporal) -- Build command line application(CLI) with nodejs
 
-#### [node-redis](https://www.npmjs.com/package/redis) - Redis client for Node.js
+#### [node-redis](https://www.npmjs.com/package/redis) -- Redis client for Node.js
+
+#### [node-fetch](https://www.npmjs.com/package/node-fetch) -- Bring window fetch to Node.js
 
 #
 
