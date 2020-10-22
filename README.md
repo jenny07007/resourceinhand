@@ -340,3 +340,5 @@
 #### [Alamofire](https://github.com/Alamofire/Alamofire) -- Handling HTTP request in Swift
 
 #### [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) -- Handling JSON data in Swift
+
+#### [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)
