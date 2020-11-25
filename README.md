@@ -1,7 +1,4 @@
-| [Tools](#-tools) | [Fonts](#-fonts) | [Colors](#-colors)
-| [Testing](#-testing) | [CI/CD](#-cicd)| [React](#-react) | [Redux](#-redux)
-| [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#-back-end) | [Database](#-database)
-| [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [Kubernetes / Docker](#-kubernetes--docker) | [iOS - Swift](#-ios---swift) |
+[Tools](#-tools) | [Styling](#-styling) | [Fonts](#-fonts) | [Colors](#-colors) | [Testing](#-testing) | [CI/CD](#-cicd) | [3D graphics](#️-3d-graphics) | [React](#-react) | [React codebases](#-react-codebases) | [NextJS](#️-nextjs) | [Redux](#-redux) | [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#️️-back-end) | [Database](#-database) | [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [Kubernetes / Docker](#-kubernetes--docker) | [iOS - Swift](#-ios---swift) |
 
 #
 
@@ -49,13 +46,13 @@
 
 ## 💆 Styling
 
-#### [Masonry](https://masonry.desandro.com/) -- Javscript grid layout libaray
-
 #### [hamburgers](https://jonsuh.com/hamburgers/) -- CSS examples of hamburgers
 
 #### [chakra-ui](https://chakra-ui.com/) -- React-based UI library
 
 #### [tachyons](/https://www.npmjs.com/package/create-react-app/) -- A framework just like bootstrap
+
+#### [tailwindcss](https://tailwindcss.com)
 
 #
 
@@ -117,8 +114,6 @@
 
 #### [gatsby](https://www.gatsbyjs.org/) -- Building static website
 
-#### [NextJS](https://nextjs.org/) -- A server side rendered app
-
 #### [Formik](https://jaredpalmer.com/formik) -- Obversely, to create forms
 
 #### [Radium](https://formidable.com/open-source/radium/) -- Managing inline styles on React elements without CSS
@@ -131,7 +126,7 @@
 
 #### [React Router Config](https://www.npmjs.com/package/react-router-config) -- A helper for server side rendering(React Router)
 
-#### [Emotion](https://emotion.sh/docs/introduction) -- Doing styling in JS
+#### [emotion](https://emotion.sh/docs/introduction) -- Doing styling in JS
 
 #### [react-copy-to-clipboard](https://www.npmjs.com/package/react-copy-to-clipboard)
 
@@ -144,6 +139,10 @@
 #### [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) -- A lean Prism highlighter component for React
 
 #### [react-query](https://react-query.tanstack.com/docs/overview) -- Fetch, cache and update data in the React/React native app
+
+#### [react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer) -- React implementation of the Intersection Observer API
+
+#
 
 ## 📟 React codebases
 
@@ -158,6 +157,14 @@
 #### [excalidraw](https://github.com/excalidraw/excalidraw/)
 
 #### [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+
+#
+
+## ➡️ Nextjs
+
+#### [NextJS](https://nextjs.org/) -- A server side rendered app
+
+#### [next-rosetta](https://www.npmjs.com/package/next-rosetta) -- i18n support
 
 #
 
@@ -274,8 +281,6 @@
 #### [pg-promise](https://github.com/vitaly-t/pg-promise)
 
 #### [Firebase](https://www.npmjs.com/package/firebase) -- Google Firebase with React
-
-#### [mlab](https://mlab.com/) -- Making MongoDb much easier
 
 #### [mongoose](https://mongoosejs.com/) -- MongoDb object modeling for node.js
 
