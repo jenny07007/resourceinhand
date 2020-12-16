@@ -42,6 +42,8 @@
 
 #### [Ramda](https://ramdajs.com/) -- Functional library for JavaScript
 
+#### [db-schema](https://dbdiagram.io/home) -- For creating entity-relationship diagrams  
+
 #
 
 ## 💆 Styling
@@ -126,8 +128,6 @@
 
 #### [React Router Config](https://www.npmjs.com/package/react-router-config) -- A helper for server side rendering(React Router)
 
-#### [emotion](https://emotion.sh/docs/introduction) -- Doing styling in JS
-
 #### [react-copy-to-clipboard](https://www.npmjs.com/package/react-copy-to-clipboard)
 
 #### [react-color](https://casesandberg.github.io/react-color/) - A collection of color pickers
@@ -141,6 +141,8 @@
 #### [react-query](https://react-query.tanstack.com/docs/overview) -- Fetch, cache and update data in the React/React native app
 
 #### [react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer) -- React implementation of the Intersection Observer API
+
+#### [react-hook-form](https://react-hook-form.com/)
 
 #
 
@@ -279,6 +281,10 @@
 #### [psequel GUI](http://www.psequel.com/)
 
 #### [pg-promise](https://github.com/vitaly-t/pg-promise)
+
+#### [pg](https://www.npmjs.com/package/pg)
+
+#### [node-pg-migrate](https://www.npmjs.com/package/node-pg-migrate) -- Node DB migration management
 
 #### [Firebase](https://www.npmjs.com/package/firebase) -- Google Firebase with React
 
