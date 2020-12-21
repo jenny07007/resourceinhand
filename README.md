@@ -42,7 +42,7 @@
 
 #### [Ramda](https://ramdajs.com/) -- Functional library for JavaScript
 
-#### [db-schema](https://dbdiagram.io/home) -- For creating entity-relationship diagrams  
+#### [db-schema](https://dbdiagram.io/home) -- For creating entity-relationship diagrams
 
 #
 
@@ -143,6 +143,8 @@
 #### [react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer) -- React implementation of the Intersection Observer API
 
 #### [react-hook-form](https://react-hook-form.com/)
+
+### [react-toast](https://github.com/moharnadreza/react-toast) -- lightweight toast notification for react apps
 
 #
 
