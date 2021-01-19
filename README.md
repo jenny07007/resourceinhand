@@ -18,7 +18,7 @@
 
 #### [Modernizr](https://modernizr.com/) -- Delivering experiences by detecting HTML5 and CSS3 features in various broswers
 
-#### [JOSN Server](https://www.npmjs.com/package/json-server) -- a fake REST API server
+#### [JSON Server](https://www.npmjs.com/package/json-server) -- a fake REST API server
 
 #### [localtunnel](https://localtunnel.github.io/www/) - Use webhooks in development
 
@@ -144,7 +144,7 @@
 
 #### [react-hook-form](https://react-hook-form.com/)
 
-### [react-toast](https://github.com/moharnadreza/react-toast) -- lightweight toast notification for react apps
+#### [react-toast](https://github.com/moharnadreza/react-toast) -- lightweight toast notification for react apps
 
 #
 
@@ -166,9 +166,11 @@
 
 ## ➡️ Nextjs
 
-#### [NextJS](https://nextjs.org/) -- A server side rendered app
-
 #### [next-rosetta](https://www.npmjs.com/package/next-rosetta) -- i18n support
+
+#### [next-auth](https://next-auth.js.org/) -- authorization
+
+#### [next-seo](https://github.com/garmeeh/next-seo)
 
 #
 
@@ -279,8 +281,6 @@
 ## 👩‍💻 Database
 
 #### [PostgreSQL](https://www.postgresql.org/)
-
-#### [psequel GUI](http://www.psequel.com/)
 
 #### [pg-promise](https://github.com/vitaly-t/pg-promise)
 
