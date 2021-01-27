@@ -92,6 +92,8 @@
 
 #### [redux-mock-store](https://www.npmjs.com/package/redux-mock-store) -- A mock store for testing Redux async action creators and middleware
 
+#### [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) -- Spinning up mongod in memory for fast tests
+
 #
 
 ## 🚔 CI/CD
@@ -145,6 +147,8 @@
 #### [react-hook-form](https://react-hook-form.com/)
 
 #### [react-toast](https://github.com/moharnadreza/react-toast) -- lightweight toast notification for react apps
+
+#### [immer](https://immerjs.github.io/immer/docs/introduction) -- Reinforcing immutable data structure
 
 #
 
@@ -234,6 +238,8 @@
 
 #### [node-fetch](https://www.npmjs.com/package/node-fetch) -- Bring window fetch to Node.js
 
+#### [localforage](https://www.npmjs.com/package/localforage) -- A storage library for Javascript (indexDB or webSQL)
+
 #
 
 ## 📦 Bundler
@@ -294,6 +300,8 @@
 
 #### [strapi](https://github.com/strapi/strapi) -- Node.js headless CMS
 
+#### [mongoose-update-if-current](https://www.npmjs.com/package/mongoose-update-if-current) - Optimistic concurrency control plugin for Mongoose documents
+
 #
 
 ## 😱 Security
@@ -343,6 +351,10 @@
 ## 🐳 Kubernetes / Docker
 
 #### [ingress-nginx](https://github.com/kubernetes/ingress-nginx) -- NGINX Ingress controller for Kubernetes
+
+#### [skaffold](https://github.com/GoogleContainerTools/skaffold) -- Continuous development command line tool
+
+#### [node-nats-streaming](https://www.npmjs.com/package/node-nats-streaming) - NATS Streaming Server
 
 #
 
