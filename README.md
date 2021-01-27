@@ -6,6 +6,8 @@
 
 #### [glot](https://glot.io/)
 
+#### [MakeTypes from JSON samples](https://jvilk.com/MakeTypes/)
+
 #### [Robohash](https://robohash.org/)
 
 #### [Dillinger](https://dillinger.io/) -- Editing markdown document and previewing it directly
@@ -33,8 +35,6 @@
 #### [Yup](https://github.com/jquense/yup) -- JS object schema validator
 
 #### [matter.js](https://brm.io/matter-js/) -- A 2D physics engine for the web
-
-#### [stripe](https://www.npmjs.com/package/stripe) -- Access to _Stripe API_ from applications
 
 #### [axios](https://www.npmjs.com/package/axios) -- Promise-based HTTP client for the broswer and nodejs
 
@@ -92,6 +92,8 @@
 
 #### [redux-mock-store](https://www.npmjs.com/package/redux-mock-store) -- A mock store for testing Redux async action creators and middleware
 
+#### [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) -- Spinning up mongod in memory for fast tests
+
 #
 
 ## 🚔 CI/CD
@@ -146,6 +148,9 @@
 
 #### [react-toast](https://github.com/moharnadreza/react-toast) -- lightweight toast notification for react apps
 
+#### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React
+
+
 #
 
 ## 📟 React codebases
@@ -161,6 +166,8 @@
 #### [excalidraw](https://github.com/excalidraw/excalidraw/)
 
 #### [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+
+#### [visx](https://airbnb.io/visx) -- visualization
 
 #
 
@@ -194,7 +201,7 @@
 
 #### [redux-persist](https://github.com/rt2zz/redux-persist) - Persisting and rehydrating a redux store
 
-#### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React
+#### [immer](https://immerjs.github.io/immer/docs/introduction) -- Reinforcing immutable data structure
 
 #
 
@@ -233,6 +240,8 @@
 #### [node-redis](https://www.npmjs.com/package/redis) -- Redis client for Node.js
 
 #### [node-fetch](https://www.npmjs.com/package/node-fetch) -- Bring window fetch to Node.js
+
+#### [localforage](https://www.npmjs.com/package/localforage) -- A storage library for Javascript (indexDB or webSQL)
 
 #
 
@@ -294,6 +303,8 @@
 
 #### [strapi](https://github.com/strapi/strapi) -- Node.js headless CMS
 
+#### [mongoose-update-if-current](https://www.npmjs.com/package/mongoose-update-if-current) - Optimistic concurrency control plugin for Mongoose documents
+
 #
 
 ## 😱 Security
@@ -338,11 +349,19 @@
 
 #### [graphql-everywhere](https://github.com/apollographql/apollo-client/tree/master/packages/graphql-anywhere)
 
+#### [raphql-code-generator](https://graphql-code-generator.com/)
+
+#### [type graqhql](https://typegraphql.com/)
+
 #
 
 ## 🐳 Kubernetes / Docker
 
 #### [ingress-nginx](https://github.com/kubernetes/ingress-nginx) -- NGINX Ingress controller for Kubernetes
+
+#### [skaffold](https://github.com/GoogleContainerTools/skaffold) -- Continuous development command line tool
+
+#### [node-nats-streaming](https://www.npmjs.com/package/node-nats-streaming) - NATS Streaming Server
 
 #
 
