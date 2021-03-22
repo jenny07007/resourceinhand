@@ -6,6 +6,8 @@
 
 #### [glot](https://glot.io/)
 
+#### [MakeTypes from JSON samples](https://jvilk.com/MakeTypes/)
+
 #### [Robohash](https://robohash.org/)
 
 #### [Dillinger](https://dillinger.io/) -- Editing markdown document and previewing it directly
@@ -33,8 +35,6 @@
 #### [Yup](https://github.com/jquense/yup) -- JS object schema validator
 
 #### [matter.js](https://brm.io/matter-js/) -- A 2D physics engine for the web
-
-#### [stripe](https://www.npmjs.com/package/stripe) -- Access to _Stripe API_ from applications
 
 #### [axios](https://www.npmjs.com/package/axios) -- Promise-based HTTP client for the broswer and nodejs
 
@@ -148,7 +148,8 @@
 
 #### [react-toast](https://github.com/moharnadreza/react-toast) -- lightweight toast notification for react apps
 
-#### [immer](https://immerjs.github.io/immer/docs/introduction) -- Reinforcing immutable data structure
+#### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React
+
 
 #
 
@@ -198,7 +199,7 @@
 
 #### [redux-persist](https://github.com/rt2zz/redux-persist) - Persisting and rehydrating a redux store
 
-#### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React
+#### [immer](https://immerjs.github.io/immer/docs/introduction) -- Reinforcing immutable data structure
 
 #
 
@@ -345,6 +346,10 @@
 #### [hasura](https://hasura.io/)
 
 #### [graphql-everywhere](https://github.com/apollographql/apollo-client/tree/master/packages/graphql-anywhere)
+
+#### [raphql-code-generator](https://graphql-code-generator.com/)
+
+#### [type graqhql](https://typegraphql.com/)
 
 #
 
