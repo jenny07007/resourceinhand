@@ -167,6 +167,8 @@
 
 #### [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 
+#### [visx](https://airbnb.io/visx) -- visualization
+
 #
 
 ## ➡️ Nextjs
