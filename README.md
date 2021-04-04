@@ -284,6 +284,8 @@
 
 #### [aws-sdk](https://www.npmjs.com/package/aws-sdk) - AWS SDK for JS
 
+#### [fs-extra](https://www.npmjs.com/package/fs-extra)
+
 #
 
 ## 👩‍💻 Database
