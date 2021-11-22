@@ -150,7 +150,6 @@
 
 #### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React
 
-
 #
 
 ## 📟 React codebases
@@ -352,6 +351,18 @@
 #### [raphql-code-generator](https://graphql-code-generator.com/)
 
 #### [type graqhql](https://typegraphql.com/)
+
+#
+
+## ⛓ BlockChain
+
+#### [hardhat](https://hardhat.org/) - A ethereum development environment
+
+#### [Brownie](https://eth-brownie.readthedocs.io/en/stable/) - A Python-based development and testing framework for smart contracts
+
+#### [Alchemy](https://www.alchemy.com/) - Blockchain api and node service
+
+#### [infura](https://infura.io/) - Ethereum/IPFS API & gateway
 
 #
 
