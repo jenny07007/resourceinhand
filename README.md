@@ -1,4 +1,4 @@
-[Tools](#-tools) | [Styling](#-styling) | [Fonts](#-fonts) | [Colors](#-colors) | [Testing](#-testing) | [CI/CD](#-cicd) | [3D graphics](#️-3d-graphics) | [React](#-react) | [React codebases](#-react-codebases) | [NextJS](#️-nextjs) | [Redux](#-redux) | [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#️️-back-end) | [Database](#-database) | [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [blockchain](#-blockchain) | [Kubernetes / Docker](#-kubernetes--docker) | [iOS - Swift](#-ios---swift) |
+[Tools](#-tools) | [Styling](#-styling) | [Fonts](#-fonts) | [Colors](#-colors) | [Testing](#-testing) | [CI/CD](#-cicd) | [3D graphics](#️-3d-graphics) | [React](#-react) | [React codebases](#-react-codebases) | [Remix](#️-remix) | [NextJS](#️-nextjs) | [Redux](#-redux) | [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#️️-back-end) | [Database](#-database) | [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [Blockchain](#-blockchain) | [Kubernetes / Docker](#-kubernetes--docker) | [iOS - Swift](#-ios---swift) |
 
 #
 
@@ -44,6 +44,8 @@
 
 #### [db-schema](https://dbdiagram.io/home) -- For creating entity-relationship diagrams
 
+---
+
 ## 💆 Styling
 
 #### [hamburgers](https://jonsuh.com/hamburgers/) -- CSS examples of hamburgers
@@ -53,6 +55,8 @@
 #### [tachyons](/https://www.npmjs.com/package/create-react-app/) -- A framework just like bootstrap
 
 #### [tailwindcss](https://tailwindcss.com)
+
+---
 
 ## 💅 Fonts
 
@@ -65,6 +69,8 @@
 ## 🐠 Colors
 
 #### [Blend](http://colinkeany.com/blend/)
+
+---
 
 ## 🍄 Testing
 
@@ -86,15 +92,21 @@
 
 #### [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server) -- Spinning up mongod in memory for fast tests
 
+---
+
 ## 🚔 CI/CD
 
 #### [CircleCI](https://circleci.com/)
+
+---
 
 ## 👯‍♀️ 3D graphics
 
 #### [canvas-sketch](https://github.com/mattdesl/canvas-sketch) - Creating generative artwork with JS
 
 #### [spline](https://spline.design/)
+
+---
 
 ## 🔰 React
 
@@ -138,6 +150,8 @@
 
 #### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React
 
+---
+
 ## 📟 React codebases
 
 #### [Simorgh by the BBC](https://github.com/bbc/simorgh)
@@ -154,6 +168,16 @@
 
 #### [visx](https://airbnb.io/visx) -- visualization
 
+---
+
+## ❤️‍🔥 Remix
+
+#### [remix-auth](https://github.com/sergiodxa/remix-auth)
+
+#### [metronome](https://metronome.sh/)
+
+---
+
 ## ➡️ Nextjs
 
 #### [next-rosetta](https://www.npmjs.com/package/next-rosetta) -- i18n support
@@ -161,6 +185,8 @@
 #### [next-auth](https://next-auth.js.org/) -- authorization
 
 #### [next-seo](https://github.com/garmeeh/next-seo)
+
+---
 
 ## 🏈 Redux
 
@@ -183,6 +209,8 @@
 #### [redux-persist](https://github.com/rt2zz/redux-persist) - Persisting and rehydrating a redux store
 
 #### [immer](https://immerjs.github.io/immer/docs/introduction) -- Reinforcing immutable data structure
+
+---
 
 ## 🏄 npm
 
@@ -222,6 +250,8 @@
 
 #### [localforage](https://www.npmjs.com/package/localforage) -- A storage library for Javascript (indexDB or webSQL)
 
+---
+
 ## 📦 Bundler
 
 #### [parcel](https://parceljs.org/) -- helpful when running Typescript in the browser
@@ -231,6 +261,8 @@
 #### [esbuild](https://esbuild.github.io/)
 
 #### [vitejs](https://vitejs.dev/)
+
+---
 
 ## 🕵️‍♀️ Back-end
 
@@ -266,6 +298,8 @@
 
 #### [fs-extra](https://www.npmjs.com/package/fs-extra)
 
+---
+
 ## 👩‍💻 Database
 
 #### [PostgreSQL](https://www.postgresql.org/)
@@ -283,6 +317,8 @@
 #### [strapi](https://github.com/strapi/strapi) -- Node.js headless CMS
 
 #### [mongoose-update-if-current](https://www.npmjs.com/package/mongoose-update-if-current) - Optimistic concurrency control plugin for Mongoose documents
+
+---
 
 ## 😱 Security
 
@@ -302,11 +338,15 @@
 
 #### [mongo-sanitize](https://github.com/vkarpov15/mongo-sanitize#readme) - Sanitising inputs against query selector injection attacks
 
+---
+
 ## 🍪 Cookies
 
 #### [cookie-session](https://www.npmjs.com/package/cookie-session) -- Stuffing all data into cookies
 
 #### [express-session](https://www.npmjs.com/package/express-session) -- Storing all data outside cookies
+
+---
 
 ## 🌼 graphQL
 
@@ -326,6 +366,8 @@
 
 #### [type graqhql](https://typegraphql.com/)
 
+---
+
 ## ⛓ BlockChain
 
 #### [hardhat](https://hardhat.org/) - A ethereum development environment
@@ -336,6 +378,8 @@
 
 #### [infura](https://infura.io/) - Ethereum/IPFS API & gateway
 
+---
+
 ## 🐳 Kubernetes / Docker
 
 #### [ingress-nginx](https://github.com/kubernetes/ingress-nginx) -- NGINX Ingress controller for Kubernetes
@@ -343,6 +387,8 @@
 #### [skaffold](https://github.com/GoogleContainerTools/skaffold) -- Continuous development command line tool
 
 #### [node-nats-streaming](https://www.npmjs.com/package/node-nats-streaming) - NATS Streaming Server
+
+---
 
 ## 🍎 iOS - Swift
 
