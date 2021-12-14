@@ -18,6 +18,8 @@
 
 #### [Public APIs](https://public-apis.xyz/) -- A collection of public APIs
 
+#### [hoppscotch](https://hoppscotch.io/) -- Api development
+
 #### [Modernizr](https://modernizr.com/) -- Delivering experiences by detecting HTML5 and CSS3 features in various broswers
 
 #### [JSON Server](https://www.npmjs.com/package/json-server) -- a fake REST API server
@@ -208,7 +210,7 @@
 
 #### [redux-persist](https://github.com/rt2zz/redux-persist) - Persisting and rehydrating a redux store
 
-#### [immer](https://immerjs.github.io/immer/docs/introduction) -- Reinforcing immutable data structure
+#### [immer](https://immerjs.github.io/immer/) -- Reinforcing immutable data structure
 
 ---
 
