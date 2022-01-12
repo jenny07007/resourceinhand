@@ -188,6 +188,8 @@
 
 #### [next-seo](https://github.com/garmeeh/next-seo)
 
+#### [swr](https://swr.vercel.app/)
+
 ---
 
 ## 🏈 Redux
@@ -211,6 +213,10 @@
 #### [redux-persist](https://github.com/rt2zz/redux-persist) - Persisting and rehydrating a redux store
 
 #### [immer](https://immerjs.github.io/immer/) -- Reinforcing immutable data structure
+
+#### [react-markdown](https://github.com/remarkjs/react-markdown#readme) -- Can be used in nextjs projects
+
+#### [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter#readme) -- Can be used in nextjs projects
 
 ---
 
