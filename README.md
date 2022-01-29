@@ -6,6 +6,8 @@
 
 #### [glot](https://glot.io/)
 
+#### [devices sizes](https://viewportsizer.com/devices/)
+
 #### [MakeTypes from JSON samples](https://jvilk.com/MakeTypes/)
 
 #### [Robohash](https://robohash.org/)
@@ -112,7 +114,7 @@
 
 ## 🔰 React
 
-#### [create-react-app](/https://www.npmjs.com/package/create-react-app/)
+#### [react-device-detect](https://www.npmjs.com/package/react-device-detect)
 
 #### [react-router-dom](https://reacttraining.com/react-router/)
 
