@@ -376,6 +376,8 @@
 
 #### [type graqhql](https://typegraphql.com/)
 
+#### [urql](https://formidable.com/open-source/urql/) -- GraphQL client for React, Svelte, Vue, or plain JavaScript
+
 ---
 
 ## ⛓ BlockChain
