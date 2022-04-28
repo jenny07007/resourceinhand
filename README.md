@@ -12,6 +12,18 @@
 
 #### [openzeppelin](https://openzeppelin.com/)
 
+#### [hardhat](https://hardhat.org/) - A ethereum development environment
+
+#### [Brownie](https://eth-brownie.readthedocs.io/en/stable/) - A Python-based development and testing framework for smart contracts
+
+#### [Alchemy](https://www.alchemy.com/) - Blockchain api and node service
+
+#### [infura](https://infura.io/) - Ethereum/IPFS API & gateway
+
+#### [solana-pay](https://github.com/solana-labs/solana-pay)
+
+#### [solana-web3](https://github.com/solana-labs/solana-web3.js)
+
 ## 🍺 Tools
 
 #### [glot](https://glot.io/)
@@ -164,6 +176,8 @@
 
 #### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React
 
+#### [react-dom-confetti](https://github.com/daniel-lundin/react-dom-confetti) -- 🎉
+
 ---
 
 ## 📟 React codebases
@@ -213,8 +227,6 @@
 #### [redux-logger](https://www.npmjs.com/package/redux-logger) -- A middleware for redux
 
 #### [redux-thunk](https://www.npmjs.com/package/redux-thunk) -- Handling async in Redux
-
-#### [react-saga](https://redux-saga.js.org/) -- Handling async actions in Redux
 
 #### [react-redux-firebase](http://react-redux-firebase.com/) -- Using firebase with react and redux
 
@@ -387,18 +399,6 @@
 #### [type graqhql](https://typegraphql.com/)
 
 #### [urql](https://formidable.com/open-source/urql/) -- GraphQL client for React, Svelte, Vue, or plain JavaScript
-
----
-
-## ⛓ BlockChain
-
-#### [hardhat](https://hardhat.org/) - A ethereum development environment
-
-#### [Brownie](https://eth-brownie.readthedocs.io/en/stable/) - A Python-based development and testing framework for smart contracts
-
-#### [Alchemy](https://www.alchemy.com/) - Blockchain api and node service
-
-#### [infura](https://infura.io/) - Ethereum/IPFS API & gateway
 
 ---
 
