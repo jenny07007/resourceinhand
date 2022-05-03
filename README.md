@@ -14,6 +14,8 @@
 
 #### [hardhat](https://hardhat.org/) - A ethereum development environment
 
+#### [hardhat-starter-kit](https://github.com/smartcontractkit/hardhat-starter-kit) - Boilerplate code for testing, deploying, and shipping chainlink solidity code
+
 #### [Brownie](https://eth-brownie.readthedocs.io/en/stable/) - A Python-based development and testing framework for smart contracts
 
 #### [Alchemy](https://www.alchemy.com/) - Blockchain api and node service
