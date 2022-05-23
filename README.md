@@ -8,6 +8,8 @@
 
 #### [pinata](https://www.pinata.cloud/) - IFPS
 
+#### [ipfs-http-client](https://www.npmjs.com/package/ipfs-http-client) -- A client library for the IPFS HTTP RPC API (/api/v0/\*), implemented in JavaScript.
+
 #### [thirdweb](https://thirdweb.com/)
 
 #### [openzeppelin](https://openzeppelin.com/)
@@ -25,6 +27,8 @@
 #### [solana-pay](https://github.com/solana-labs/solana-pay)
 
 #### [solana-web3](https://github.com/solana-labs/solana-web3.js)
+
+#### [bignumber.js](https://github.com/MikeMcl/bignumber.js) -- A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
 
 ## 🍺 Tools
 
