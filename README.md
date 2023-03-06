@@ -1,8 +1,8 @@
-[🥷 Web3](#-web3) | [Tools](#-tools) | [Styling](#-styling) | [Fonts](#-fonts) | [Colors](#-colors) | [Testing](#-testing) | [CI/CD](#-cicd) | [3D graphics](#️-3d-graphics) | [React](#-react) | [React codebases](#-react-codebases) | [Remix](#️-remix) | [NextJS](#️-nextjs) | [Redux](#-redux) | [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#️️-back-end) | [Database](#-database) | [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [Blockchain](#-blockchain) | [Kubernetes / Docker](#-kubernetes--docker) | [iOS - Swift](#-ios---swift) |
+[🥷 Blockchain](#-blockchain) | [Tools](#-tools) | [Styling](#-styling) | [Fonts](#-fonts) | [Colors](#-colors) | [Testing](#-testing) | [CI/CD](#-cicd) | [3D graphics](#️-3d-graphics) | [React](#-react) | [React codebases](#-react-codebases) | [Remix](#️-remix) | [NextJS](#️-nextjs) | [Redux](#-redux) | [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#️️-back-end) | [Database](#-database) | [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [Kubernetes / Docker](#-kubernetes--docker) | [iOS - Swift](#-ios---swift) |
 
 #
 
-## 🥷 Web3
+## 🥷 Blockchain
 
 #### [The Graph](https://thegraph.com/en/) -- indexing protocol for querying networks like Ethereum and IPFS
 
