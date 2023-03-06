@@ -24,11 +24,17 @@
 
 #### [infura](https://infura.io/) - Ethereum/IPFS API & gateway
 
+#### [bignumber.js](https://github.com/MikeMcl/bignumber.js) -- A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
+
+#### [wagmi](https://wagmi.sh/) -- React hooks for ethereum. Such as `connect wallet`, `sent transaction`, `sign message`, `sign-in with ethereum` etc
+
+#### [RainbowKit](https://www.rainbowkit.com/) -- For creating a great and lovely Ethereum login experience
+
+#### [web3.storage](https://web3.storage/) -- Decentralized storage
+
 #### [solana-pay](https://github.com/solana-labs/solana-pay)
 
 #### [solana-web3](https://github.com/solana-labs/solana-web3.js)
-
-#### [bignumber.js](https://github.com/MikeMcl/bignumber.js) -- A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic
 
 ## 🍺 Tools
 
