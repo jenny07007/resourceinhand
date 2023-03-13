@@ -1,6 +1,26 @@
-[🥷 Blockchain](#-blockchain) | [Tools](#-tools) | [Styling](#-styling) | [Fonts](#-fonts) | [Colors](#-colors) | [Testing](#-testing) | [CI/CD](#-cicd) | [3D graphics](#️-3d-graphics) | [React](#-react) | [React codebases](#-react-codebases) | [Remix](#️-remix) | [NextJS](#️-nextjs) | [Redux](#-redux) | [npm](#-npm) | [Bundler](#-bundler) | [Back-end](#️️-back-end) | [Database](#-database) | [Security](#-security) | [Cookies](#-cookies) | [graphQL](#-graphql) | [Kubernetes / Docker](#-kubernetes--docker) | [iOS - Swift](#-ios---swift) |
+[🪐 Solana](#-solana) | [🥷 Blockchain](#-blockchain) | [🍺 Tools](#-tools) | [💆 Styling](#-styling) | [💅 Fonts](#-fonts) | [🐠 Colors](#-colors) | [🍄 Testing](#-testing) | [🚔 CI/CD](#-cicd) | [👯‍♀️ 3D graphics](#️-3d-graphics) | [🔰 React](#-react) | [📟 React codebases](#-react-codebases) | [❤️‍🔥 Remix](#️-remix) | [➡️ Nextjs](#️-nextjs) | [🏈 Redux](#-redux) | [📦 Bundler](#-bundler) | [🕵️‍♀️ Back-end](#️️-back-end) | [👩‍💻 Database](#-database) | [😱 Security](#-security) | [🍪 Cookies](#-cookies) | [🌼 graphQL](#-graphql) | [🐳 Kubernetes / Docker](#-kubernetes--docker) | [🍎 iOS - Swift](#-ios---swift)
 
 #
+
+## 🪐 Solana
+
+#### [solana-web3](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
+
+#### [wallet-adapter](https://github.com/solana-labs/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
+
+#### [solana-pay](https://github.com/solana-labs/solana-pay)
+
+#### [spl-token](https://www.npmjs.com/package/@solana/spl-token) - A TypeScript library for interacting with the SPL Token and Token-2022 programs
+
+#### [metaplexjs](https://github.com/metaplex-foundation/js) -- A JavaScript SDK for interacting with Metaplex's programs
+
+#### [mpl-token-metadata](https://www.npmjs.com/package/@metaplex-solarti/mpl-token-metadata)
+
+#### [the sugar CLI](https://docs.metaplex.com/developer-tools/sugar/overview/installation)
+
+#### [candy machine ui](https://github.com/metaplex-foundation/candy-machine-ui)
+
+#### [anchor-lang](https://www.anchor-lang.com/) -- Solana's sealevel runtime framework
 
 ## 🥷 Blockchain
 
@@ -31,10 +51,6 @@
 #### [RainbowKit](https://www.rainbowkit.com/) -- For creating a great and lovely Ethereum login experience
 
 #### [web3.storage](https://web3.storage/) -- Decentralized storage
-
-#### [solana-pay](https://github.com/solana-labs/solana-pay)
-
-#### [solana-web3](https://github.com/solana-labs/solana-web3.js)
 
 ## 🍺 Tools
 
