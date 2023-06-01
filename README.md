@@ -30,6 +30,8 @@
 
 ## 🪐 Solana
 
+#### [sol dev](https://www.soldev.app) -- the latest updates in the solana ecosystem
+
 #### [solana-web3](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
 
 #### [wallet-adapter](https://github.com/solana-labs/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
