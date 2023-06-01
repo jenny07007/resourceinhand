@@ -1,6 +1,32 @@
-[🪐 Solana](#-solana) | [🥷 Blockchain](#-blockchain) | [🍺 Tools](#-tools) | [💆 Styling](#-styling) | [💅 Fonts](#-fonts) | [🐠 Colors](#-colors) | [🍄 Testing](#-testing) | [🚔 CI/CD](#-cicd) | [👯‍♀️ 3D graphics](#️-3d-graphics) | [🔰 React](#-react) | [📟 React codebases](#-react-codebases) | [❤️‍🔥 Remix](#️-remix) | [➡️ Nextjs](#️-nextjs) | [🏈 Redux](#-redux) | [📦 Bundler](#-bundler) | [🕵️‍♀️ Back-end](#️️-back-end) | [👩‍💻 Database](#-database) | [😱 Security](#-security) | [🍪 Cookies](#-cookies) | [🌼 graphQL](#-graphql) | [🐳 Kubernetes / Docker](#-kubernetes--docker) | [🍎 iOS - Swift](#-ios---swift)
+[🤖 AIs](#-ais) | [🪐 Solana](#-solana) | [🥷 Blockchain](#-blockchain) | [🍺 Tools](#-tools) | [💆 Styling](#-styling) | [💅 Fonts](#-fonts) | [🐠 Colors](#-colors) | [🍄 Testing](#-testing) | [🚔 CI/CD](#-cicd) | [👯‍♀️ 3D graphics](#️-3d-graphics) | [🔰 React](#-react) | [❤️‍🔥 Remix](#️-remix) | [➡️ Nextjs](#️-nextjs) | [🏈 Redux](#-redux) | [📦 Bundler](#-bundler) | [🕵️‍♀️ Back-end](#️️-back-end) | [👩‍💻 Database](#-database) | [😱 Security](#-security) | [🍪 Cookies](#-cookies) | [🌼 graphQL](#-graphql) | [🐳 Kubernetes / Docker](#-kubernetes--docker) | [🍎 iOS - Swift](#-ios---swift)
 
 #
+
+## 🤖 AIs
+
+#### [Upstash](https://upstash.com/)
+
+- [Upstash Rate Limit SDK](https://github.com/upstash/ratelimit) -- Rate limiting library for serverless runtimes
+- [Upstash QStash](https://github.com/upstash/sdk-qstash-ts) -- an HTTP based messaging and scheduling solution for serverless and edge runtimes
+- [Upstash pricing](https://upstash.com/#pricing)
+
+  |      | Redis                        | QStash                        |
+  | ---- | ---------------------------- | ----------------------------- |
+  | Free | 10K Commands (per day)       | 500 Messages (per day)        |
+  | PAYG | $0.2 (per 100k commands)     | $1 (per 100k message)         |
+  | PRO  | Starts from $280 (unlimited) | Starts from $180 (up to 100M) |
+
+#### [pinecone](https://www.pinecone.io/) -- vector database
+
+- [pinecon pricing](https://www.pinecone.io/pricing/)
+
+  | Starter | Standard              | Enterprise             |
+  | ------- | --------------------- | ---------------------- |
+  | Free    | starting at $70/month | starting at $104/month |
+
+#### [langchain](https://langchain.com/) -- a framework for developing applications powered by language models
+
+---
 
 ## 🪐 Solana
 
@@ -21,6 +47,8 @@
 #### [candy machine ui](https://github.com/metaplex-foundation/candy-machine-ui)
 
 #### [anchor-lang](https://www.anchor-lang.com/) -- Solana's sealevel runtime framework
+
+---
 
 ## 🥷 Blockchain
 
@@ -51,6 +79,8 @@
 #### [RainbowKit](https://www.rainbowkit.com/) -- For creating a great and lovely Ethereum login experience
 
 #### [web3.storage](https://web3.storage/) -- Decentralized storage
+
+---
 
 ## 🍺 Tools
 
@@ -97,6 +127,8 @@
 #### [Ramda](https://ramdajs.com/) -- Functional library for JavaScript
 
 #### [db-schema](https://dbdiagram.io/home) -- For creating entity-relationship diagrams
+
+#### [Find Dev Tools](https://finddev.tools/compare) -- List of Developer tools
 
 ---
 
@@ -164,13 +196,13 @@
 
 ## 🔰 React
 
+#### [beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development
+
 #### [react-device-detect](https://www.npmjs.com/package/react-device-detect)
 
 #### [react-router-dom](https://reacttraining.com/react-router/)
 
 #### [glamorous](https://glamorous.rocks/) -- Maintainable CSS
-
-#### [gatsby](https://www.gatsbyjs.org/) -- Building static website
 
 #### [Formik](https://jaredpalmer.com/formik) -- Obversely, to create forms
 
@@ -205,24 +237,6 @@
 #### [react-three-fiber](https://github.com/react-spring/react-three-fiber) - Using THREEjs with React
 
 #### [react-dom-confetti](https://github.com/daniel-lundin/react-dom-confetti) -- 🎉
-
----
-
-## 📟 React codebases
-
-#### [Simorgh by the BBC](https://github.com/bbc/simorgh)
-
-#### [cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) -- TypeScript, Express, Material UI, Formilk
-
-#### [FauxJira](https://github.com/FauxJira/FauxJira) -- React, TypeORM(typescript), Postgres, Styled-components
-
-#### [spectrum](spectrum) -- Flow| GraphQL(Apollo) | Redux | React(Hooks) | Express
-
-#### [excalidraw](https://github.com/excalidraw/excalidraw/)
-
-#### [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
-
-#### [visx](https://airbnb.io/visx) -- visualization
 
 ---
 
@@ -326,6 +340,8 @@
 
 ## 🕵️‍♀️ Back-end
 
+#### [prisma](https://github.com/prisma/prisma) -- ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+
 #### [dotenv](https://www.npmjs.com/package/dotenv) -- Loads environment variables from .env into process.env
 
 #### [body-parse](https://www.npmjs.com/package/body-parser) -- A middleware to parse data from code thought HTTP requests.
@@ -361,6 +377,26 @@
 ---
 
 ## 👩‍💻 Database
+
+#### [supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Much service-oriented.
+
+- [supabase Pricing](https://supabase.com/pricing)
+
+  | FREE                                     | PRO                                     | Enterprise |
+  | ---------------------------------------- | --------------------------------------- | ---------- |
+  | start from $0 (limit of 2 free projects) | Starting from $25 per month per project |            |
+
+#### [railway](https://railway.app/) - Much more environment-oriented
+
+- [railway pricing](https://railway.app/pricing)
+
+  | RAM                | CPU                  |
+  | ------------------ | -------------------- |
+  | $10 / GB per month | $20 / vCPU per month |
+
+  | Starter                  | Developer                                 | Team       |
+  | ------------------------ | ----------------------------------------- | ---------- |
+  | $5 or 500 hours of usage | Ditch the limits. Still free under $5/mo. | $20 / seat |
 
 #### [PostgreSQL](https://www.postgresql.org/)
 
