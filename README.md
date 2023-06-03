@@ -294,7 +294,7 @@
 
 #### [npm-run-all](https://www.npmjs.com/package/npm-run-all) -- Run multiple npm scripts in parallel
 
-#### [date-fns](https://date-fns.org/)
+#### [date-fns](https://date-fns.org/) -- Modern JavaScript date utility library
 
 #### [MomentJS](https://momentjs.com/) -- Using date and time in JavaScript
 
