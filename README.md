@@ -28,7 +28,7 @@
 
 #### [langchain](https://langchain.com/) -- a framework for developing applications powered by language models
 
-#### [Cercel AI SDK](https://sdk.vercel.ai/docs) -- For building AI-powered user interfaces
+#### [Vercel AI SDK](https://sdk.vercel.ai/docs) -- For building AI-powered user interfaces
 
 #### [FlowiseAI](https://flowiseai.com/) -- Drag & drop UI to build customized LLM flows
 
