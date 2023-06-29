@@ -1,8 +1,8 @@
-[🤖 AIs](#-ais) | [🪐 Solana](#-solana) | [🥷 Blockchain](#-blockchain) | [🍺 Tools](#-tools) | [💆 Styling](#-styling) | [💅 Fonts](#-fonts) | [🐠 Colors](#-colors) | [🍄 Testing](#-testing) | [🚔 CI/CD](#-cicd) | [👯‍♀️ 3D graphics](#️-3d-graphics) | [🔰 React](#-react) | [❤️‍🔥 Remix](#️-remix) | [➡️ Nextjs](#️-nextjs) | [🏈 Redux](#-redux) | [📦 Bundler](#-bundler) | [🕵️‍♀️ Back-end](#️️-back-end) | [👩‍💻 Database](#-database) | [😱 Security](#-security) | [🍪 Cookies](#-cookies) | [🌼 graphQL](#-graphql) | [🐳 Kubernetes / Docker](#-kubernetes--docker) | [🍎 iOS - Swift](#-ios---swift)
+[🤖 AI](#-ai) | [🪐 Solana](#-solana) | [🥷 Blockchain](#-blockchain) | [🍺 Tools](#-tools) | [💆 Styling](#-styling) | [💅 Fonts](#-fonts) | [🐠 Colors](#-colors) | [🍄 Testing](#-testing) | [🚔 CI/CD](#-cicd) | [👯‍♀️ 3D graphics](#️-3d-graphics) | [🔰 React](#-react) | [❤️‍🔥 Remix](#️-remix) | [➡️ Nextjs](#️-nextjs) | [🏈 Redux](#-redux) | [📦 Bundler](#-bundler) | [🕵️‍♀️ Back-end](#️️-back-end) | [👩‍💻 Database](#-database) | [😱 Security](#-security) | [🍪 Cookies](#-cookies) | [🌼 graphQL](#-graphql) | [🐳 Kubernetes / Docker](#-kubernetes--docker) | [🍎 iOS - Swift](#-ios---swift)
 
 #
 
-## 🤖 AIs
+## 🤖 AI
 
 #### [Upstash](https://upstash.com/)
 
@@ -18,6 +18,8 @@
 
 #### [pinecone](https://www.pinecone.io/) -- vector database
 
+#### [streamlit](https://streamlit.io/) -- turn data to shareable web app only with Python
+
 - [pinecon pricing](https://www.pinecone.io/pricing/)
 
   | Starter | Standard              | Enterprise             |
@@ -25,6 +27,10 @@
   | Free    | starting at $70/month | starting at $104/month |
 
 #### [langchain](https://langchain.com/) -- a framework for developing applications powered by language models
+
+#### [Cercel AI SDK](https://sdk.vercel.ai/docs) -- For building AI-powered user interfaces
+
+#### [FlowiseAI](https://flowiseai.com/) -- Drag & drop UI to build customized LLM flows
 
 ---
 
