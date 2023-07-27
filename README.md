@@ -92,6 +92,8 @@
 
 ## 🍺 Tools
 
+#### [excalidraw](https://github.com/excalidraw/excalidraw) -- Virtual whiteboard for sketching hand-drawn like diagrams
+
 #### [glot](https://glot.io/)
 
 #### [devices sizes](https://viewportsizer.com/devices/)
