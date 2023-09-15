@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD041 MD001-->>
 
-[🤖 AI](#-ai) | [🪐 Solana](#-solana) | [🥷 Blockchain](#-blockchain) | [🍺 Tools](#-tools) | [💆 Styling](#-styling) | [💅 Fonts](#-fonts) | [🐠 Colors](#-colors) | [🍄 Testing](#-testing) | [🚔 CI/CD](#-cicd) | [👯‍♀️ 3D graphics](#️-3d-graphics) | [🔰 React](#-react) | [❤️‍🔥 Remix](#️-remix) | [➡️ Nextjs](#️-nextjs) | [🏈 Redux](#-redux) | [📦 Bundler](#-bundler) | [🕵️‍♀️ Back-end](#️️-back-end) | [👩‍💻 Database](#-database) | [😱 Security](#-security) | [🍪 Cookies](#-cookies) | [🌼 graphQL](#-graphql) | [🐳 Kubernetes / Docker](#-kubernetes--docker) | [🍎 iOS - Swift](#-ios---swift)
+[🤖 AI](#-ai) | [🪐 Solana](#-solana) | [🥷 Blockchain](#-blockchain) | [🏓 CMS](#cms) | [🍺 Tools](#-tools) | [💆 Styling](#-styling) | [💅 Fonts](#-fonts) | [🐠 Colors](#-colors) | [🍄 Testing](#-testing) | [🚔 CI/CD](#-cicd) | [👯‍♀️ 3D graphics](#️-3d-graphics) | [🔰 React](#-react) | [❤️‍🔥 Remix](#️-remix) | [➡️ Nextjs](#️-nextjs) | [🏈 Redux](#-redux) | [📦 Bundler](#-bundler) | [🕵️‍♀️ Back-end](#️️-back-end) | [👩‍💻 Database](#-database) | [😱 Security](#-security) | [🍪 Cookies](#-cookies) | [🌼 graphQL](#-graphql) | [🐳 Kubernetes / Docker](#-kubernetes--docker) | [🍎 iOS - Swift](#-ios---swift)
 
 #
 
@@ -20,13 +20,13 @@
 
 #### [pinecone](https://www.pinecone.io/) -- vector database
 
-#### [streamlit](https://streamlit.io/) -- turn data to shareable web app only with Python
-
 - [pinecon pricing](https://www.pinecone.io/pricing/)
 
   | Starter | Standard              | Enterprise             |
   | ------- | --------------------- | ---------------------- |
   | Free    | starting at $70/month | starting at $104/month |
+
+#### [streamlit](https://streamlit.io/) -- turn data to shareable web app only with Python
 
 #### [langchain](https://langchain.com/) -- a framework for developing applications powered by language models
 
@@ -42,7 +42,7 @@
 
 #### [solana-web3](https://github.com/solana-labs/solana-web3.js) - Solana JavaScript SDK
 
-#### [wallet-adapter](https://github.com/solana-labs/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications.
+#### [wallet-adapter](https://github.com/solana-labs/wallet-adapter) - Modular TypeScript wallet adapters and components for Solana applications
 
 #### [solana-pay](https://github.com/solana-labs/solana-pay)
 
@@ -98,7 +98,7 @@
 
 #### [contentful](https://www.contentful.com/) -- Headless CMS
 
-#### [ghost](https://ghost.org/)
+#### [ghost](https://ghost.org/) -- Blog
 
 #### [prismic](https://prismic.io/)
 
@@ -234,7 +234,7 @@
 
 #### [Why did you render](https://github.com/welldone-software/why-did-you-render) Notifying about React re-render
 
-#### [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware) -- A solution to solve the problem when the simple proxy setting does not work (or not fit your purpose) in development.
+#### [http-proxy-middleware](https://www.npmjs.com/package/http-proxy-middleware) -- A solution to solve the problem when the simple proxy setting does not work (or not fit your purpose) in development
 
 #### [react-infinite-scroll-component](https://www.npmjs.com/package/react-infinite-scroll-component) -- Infinite scrolling
 
@@ -312,7 +312,7 @@
 
 ## 🏄 npm
 
-#### [npm-check-updates](https://www.getpostman.com/) -- Upgrading package.json dependencies to the latest versions, ignoring specified versions.
+#### [npm-check-updates](https://www.getpostman.com/) -- Upgrading package.json dependencies to the latest versions, ignoring specified versions
 
 #### [npm-run-all](https://www.npmjs.com/package/npm-run-all) -- Run multiple npm scripts in parallel
 
