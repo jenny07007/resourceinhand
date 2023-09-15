@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 MD001-->>
+
 [🤖 AI](#-ai) | [🪐 Solana](#-solana) | [🥷 Blockchain](#-blockchain) | [🍺 Tools](#-tools) | [💆 Styling](#-styling) | [💅 Fonts](#-fonts) | [🐠 Colors](#-colors) | [🍄 Testing](#-testing) | [🚔 CI/CD](#-cicd) | [👯‍♀️ 3D graphics](#️-3d-graphics) | [🔰 React](#-react) | [❤️‍🔥 Remix](#️-remix) | [➡️ Nextjs](#️-nextjs) | [🏈 Redux](#-redux) | [📦 Bundler](#-bundler) | [🕵️‍♀️ Back-end](#️️-back-end) | [👩‍💻 Database](#-database) | [😱 Security](#-security) | [🍪 Cookies](#-cookies) | [🌼 graphQL](#-graphql) | [🐳 Kubernetes / Docker](#-kubernetes--docker) | [🍎 iOS - Swift](#-ios---swift)
 
 #
@@ -64,7 +66,7 @@
 
 #### [pinata](https://www.pinata.cloud/) - IFPS
 
-#### [ipfs-http-client](https://www.npmjs.com/package/ipfs-http-client) -- A client library for the IPFS HTTP RPC API (/api/v0/\*), implemented in JavaScript.
+#### [ipfs-http-client](https://www.npmjs.com/package/ipfs-http-client) -- A client library for the IPFS HTTP RPC API (/api/v0/\*), implemented in JavaScript
 
 #### [thirdweb](https://thirdweb.com/)
 
@@ -87,6 +89,18 @@
 #### [RainbowKit](https://www.rainbowkit.com/) -- For creating a great and lovely Ethereum login experience
 
 #### [web3.storage](https://web3.storage/) -- Decentralized storage
+
+---
+
+## CMS
+
+#### [strapi](https://github.com/strapi/strapi) -- Node.js headless CMS
+
+#### [contentful](https://www.contentful.com/) -- Headless CMS
+
+#### [ghost](https://ghost.org/)
+
+#### [prismic](https://prismic.io/)
 
 ---
 
@@ -160,7 +174,7 @@
 
 #### [Monoid](https://larsenwork.com/monoid/)
 
-#### [SF Mono Font](https://github.com/ZulwiyozaPutra/SF-Mono-Font) - Apple SF-Mono-Font!
+#### [SF Mono Font](https://github.com/ZulwiyozaPutra/SF-Mono-Font) - Apple SF-Mono-Font
 
 ## 🐠 Colors
 
@@ -419,8 +433,6 @@
 #### [Firebase](https://www.npmjs.com/package/firebase) -- Google Firebase with React
 
 #### [mongoose](https://mongoosejs.com/) -- MongoDb object modeling for node.js
-
-#### [strapi](https://github.com/strapi/strapi) -- Node.js headless CMS
 
 #### [mongoose-update-if-current](https://www.npmjs.com/package/mongoose-update-if-current) - Optimistic concurrency control plugin for Mongoose documents
 
