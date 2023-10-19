@@ -1,32 +1,14 @@
 <!-- markdownlint-disable MD041 MD001 MD042 MD033 MD051-->
+<a name="table-of-contents">
 
-# Table of Contents
-
-- [Table of Contents](#table-of-contents)
-  - [🤖 AI](#-ai)
-  - [🪐 Solana](#-solana)
-  - [🥷 Blockchain](#-blockchain)
-  - [🎈 CMS](#-cms)
-  - [🍺 Tools](#-tools)
-  - [💆 Styling](#-styling)
-  - [💅 Fonts](#-fonts)
-  - [🐠 Colors](#-colors)
-  - [🍄 Testing](#-testing)
-  - [🚔 CI/CD](#-cicd)
-  - [👯‍♀️ 3D graphics](#️-3d-graphics)
-  - [🔰 React](#-react)
-  - [❤️‍🔥 Remix](#️-remix)
-  - [⏭️ Nextjs](#️-nextjs)
-  - [🏈 Redux](#-redux)
-  - [🏄 npm](#-npm)
-  - [📦 Bundler](#-bundler)
-  - [🕵️‍♀️ Back-end](#️️-back-end)
-  - [👩‍💻 Database](#-database)
-  - [😱 Security](#-security)
-  - [🍪 Cookies](#-cookies)
-  - [🌼 graphQL](#-graphql)
-  - [🐳 Kubernetes / Docker](#-kubernetes--docker)
-  - [🍎 iOS - Swift](#-ios---swift)
+|                         |                             |                                                |                                 |
+| ----------------------- | --------------------------- | ---------------------------------------------- | ------------------------------- |
+| [🤖 AI](#-ai)           | [🪐 Solana](#-solana)       | [🥷 Blockchain](#-blockchain)                  | [🎈 CMS](#-cms)                 |
+| [🍺 Tools](#-tools)     | [💆 Styling](#-styling)     | [💅 Fonts](#-fonts)                            | [🐠 Colors](#-colors)           |
+| [🍄 Testing](#-testing) | [🚔 CI/CD](#-cicd)          | [👯‍♀️ 3D graphics](#️-3d-graphics)               | [🔰 React](#-react)             |
+| [❤️‍🔥 Remix](#️-remix)    | [⏭️ Nextjs](#️-nextjs)      | [🏈 Redux](#-redux)                            | [🏄 npm](#-npm)                 |
+| [📦 Bundler](#-bundler) | [🕵️‍♀️ Back-end](#️️-back-end) | [👩‍💻 Database](#-database)                      | [😱 Security](#-security)       |
+| [🍪 Cookies](#-cookies) | [🌼 graphQL](#-graphql)     | [🐳 Kubernetes / Docker](#-kubernetes--docker) | [🍎 iOS - Swift](#-ios---swift) |
 
 ## 🤖 AI
 
