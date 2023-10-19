@@ -1,29 +1,32 @@
-<!-- markdownlint-disable MD041 MD001 MD042-->
+<!-- markdownlint-disable MD041 MD001 MD042 MD033 MD051-->
 
-- [🤖 AI](#-ai)
-- [🪐 Solana](#-solana)
-- [🥷 Blockchain](#-blockchain)
-- [🎈 CMS](#-cms)
-- [🍺 Tools](#-tools)
-- [💆 Styling](#-styling)
-- [💅 Fonts](#-fonts)
-- [🐠 Colors](#-colors)
-- [🍄 Testing](#-testing)
-- [🚔 CI/CD](#-cicd)
-- [👯‍♀️ 3D graphics](#️-3d-graphics)
-- [🔰 React](#-react)
-- [❤️‍🔥 Remix](#️-remix)
-- [⏭️ Nextjs](#️-nextjs)
-- [🏈 Redux](#-redux)
-- [🏄 npm](#-npm)
-- [📦 Bundler](#-bundler)
-- [🕵️‍♀️ Back-end](#️️-back-end)
-- [👩‍💻 Database](#-database)
-- [😱 Security](#-security)
-- [🍪 Cookies](#-cookies)
-- [🌼 graphQL](#-graphql)
-- [🐳 Kubernetes / Docker](#-kubernetes--docker)
-- [🍎 iOS - Swift](#-ios---swift)
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+  - [🤖 AI](#-ai)
+  - [🪐 Solana](#-solana)
+  - [🥷 Blockchain](#-blockchain)
+  - [🎈 CMS](#-cms)
+  - [🍺 Tools](#-tools)
+  - [💆 Styling](#-styling)
+  - [💅 Fonts](#-fonts)
+  - [🐠 Colors](#-colors)
+  - [🍄 Testing](#-testing)
+  - [🚔 CI/CD](#-cicd)
+  - [👯‍♀️ 3D graphics](#️-3d-graphics)
+  - [🔰 React](#-react)
+  - [❤️‍🔥 Remix](#️-remix)
+  - [⏭️ Nextjs](#️-nextjs)
+  - [🏈 Redux](#-redux)
+  - [🏄 npm](#-npm)
+  - [📦 Bundler](#-bundler)
+  - [🕵️‍♀️ Back-end](#️️-back-end)
+  - [👩‍💻 Database](#-database)
+  - [😱 Security](#-security)
+  - [🍪 Cookies](#-cookies)
+  - [🌼 graphQL](#-graphql)
+  - [🐳 Kubernetes / Docker](#-kubernetes--docker)
+  - [🍎 iOS - Swift](#-ios---swift)
 
 ## 🤖 AI
 
@@ -38,6 +41,8 @@
 | [Vercel AI SDK](https://sdk.vercel.ai/docs)                    | SDK for building AI-powered user interfaces                                   |
 | [flowiseAI](https://flowiseai.com/)                            | Drag & drop UI for building customized LLM (Large Language Model) flows       |
 | [pgvector](https://github.com/pgvector/pgvector)               | Open-source vector similarity search for Postgres                             |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -55,6 +60,8 @@
 | [the sugar CLI](https://docs.metaplex.com/developer-tools/sugar/overview/installation)   | CLI tool for Metaplex development                                             |
 | [candy machine ui](https://github.com/metaplex-foundation/candy-machine-ui)              | User interface for Metaplex Candy Machine                                     |
 | [anchor-lang](https://www.anchor-lang.com/)                                              | Solana's Sealevel runtime framework                                           |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -76,6 +83,8 @@
 | [RainbowKit](https://www.rainbowkit.com/)                                      | Ethereum login experience toolkit                                                                     |
 | [web3.storage](https://web3.storage/)                                          | Decentralized storage for Web3 applications                                                           |
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## 🎈 CMS
@@ -86,6 +95,8 @@
 | [contentful](https://www.contentful.com/)  | Headless CMS                    |
 | [ghost](https://ghost.org/)                | Blogging platform and CMS       |
 | [prismic](https://prismic.io/)             | Content management system (CMS) |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -119,6 +130,8 @@
 | [Find Dev Tools](https://finddev.tools/compare)             | List of developer tools and their comparisons                 |
 | [zod](https://zod.dev/)                                     | TypeScript-first schema validation with static type inference |
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## 💆 Styling
@@ -134,6 +147,8 @@
 | [daisy-ui (tailwindcss)](https://daisyui.com/)       | Extension for Tailwind CSS, additional components and utilities |
 | [shadcn-ui(tailwindcss)](https://ui.shadcn.com/)     | Tailwind CSS-based, range of components and utilities           |
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## 💅 Fonts
@@ -144,11 +159,17 @@
 | [Monoid](https://larsenwork.com/monoid/)                       |                    |
 | [SF Mono Font](https://github.com/ZulwiyozaPutra/SF-Mono-Font) | Apple SF-Mono-Font |
 
+[Back to Top](#table-of-contents)
+
+---
+
 ## 🐠 Colors
 
 | Library/Tool                          | Description |
 | ------------------------------------- | ----------- |
 | [Blend](http://colinkeany.com/blend/) |             |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -166,14 +187,17 @@
 | [redux-mock-store](https://www.npmjs.com/package/redux-mock-store)               | A mock store for testing Redux async action creators and middleware |
 | [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server)          | Spinning up mongod in memory for fast tests                         |
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## 🚔 CI/CD
 
-| Library/Tool | Description |
-| ------------ | ----------- |
+| Library/Tool                      | Description |
+| --------------------------------- | ----------- |
+| [circleCI](https://circleci.com/) |             |
 
-| [circleCI](https://circleci.com/) | (No description available) |
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -182,7 +206,9 @@
 | Library/Tool                                               | Description                         |
 | ---------------------------------------------------------- | ----------------------------------- |
 | [canvas-sketch](https://github.com/mattdesl/canvas-sketch) | Creating generative artwork with JS |
-| [spline](https://spline.design/)                           | (No description available)          |
+| [spline](https://spline.design/)                           |                                     |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -219,6 +245,8 @@
 | [react-i18next](https://react.i18next.com/)                                                      | Comprehensive, handles translations, formatting                                                |
 | [storybook](https://storybook.js.org/)                                                           | Catalog UI components, save component variations as stories                                    |
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## ❤️‍🔥 Remix
@@ -227,6 +255,8 @@
 | ----------------------------------------------------- | ------------------------------------------------- |
 | [remix-auth](https://github.com/sergiodxa/remix-auth) | Authentication library for Remix web framework    |
 | [metronome](https://metronome.sh/)                    | Metronome - A task scheduling and management tool |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -238,6 +268,8 @@
 | [next-auth](https://next-auth.js.org/)                     | Authorization library for Next.js applications               |
 | [next-seo](https://github.com/garmeeh/next-seo)            | SEO (Search Engine Optimization) utility for Next.js         |
 | [swr](https://swr.vercel.app/)                             | React hooks for remote data fetching and caching             |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -256,6 +288,8 @@
 | [immer](https://immerjs.github.io/immer/)                                                               | Library for working with immutable data structures                |
 | [react-markdown](https://github.com/remarkjs/react-markdown#readme)                                     | Render Markdown in React, usable in Next.js projects              |
 | [react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter#readme) | Syntax highlighting for code in React, usable in Next.js projects |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -282,6 +316,8 @@
 | [node-fetch](https://www.npmjs.com/package/node-fetch)                  | Bring window.fetch to Node.js                                                             |
 | [localforage](https://www.npmjs.com/package/localforage)                | Storage library for JavaScript using IndexedDB or WebSQL                                  |
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## 📦 Bundler
@@ -293,6 +329,8 @@
 | [esbuild](https://esbuild.github.io/)                                          | Extremely fast JavaScript bundler and minifier                              |
 | [vitejs](https://vitejs.dev/)                                                  | Opinionated web development build tool with a focus on speed and simplicity |
 | [bun](https://bun.sh/)                                                         | All-in-one Javascript runtime                                               |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -318,6 +356,8 @@
 | [aws-sdk](https://www.npmjs.com/package/aws-sdk)                                                         | AWS (Amazon Web Services) SDK for JavaScript                   |
 | [fs-extra](https://www.npmjs.com/package/fs-extra)                                                       | Extra file system methods for Node.js                          |
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## 👩‍💻 Database
@@ -334,6 +374,8 @@
 | [mongoose](https://mongoosejs.com/)                                                    | MongoDB object modeling library for Node.js                                   |
 | [mongoose-update-if-current](https://www.npmjs.com/package/mongoose-update-if-current) | Optimistic concurrency control plugin for Mongoose documents                  |
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## 😱 Security
@@ -349,6 +391,8 @@
 | [express-rate-limit](https://github.com/nfriedly/express-rate-limit) | Middleware for limiting repeated requests to APIs or endpoints in Express         |
 | [mongo-sanitize](https://github.com/vkarpov15/mongo-sanitize#readme) | Middleware for sanitizing inputs against query selector injection attacks         |
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## 🍪 Cookies
@@ -357,6 +401,8 @@
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [cookie-session](https://www.npmjs.com/package/cookie-session)   | Session management middleware for Express that stores session data in cookies         |
 | [express-session](https://www.npmjs.com/package/express-session) | Session management middleware for Express that stores session data outside of cookies |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -374,6 +420,8 @@
 | [type-graphql](https://typegraphql.com/)                                                                             | TypeScript library for creating GraphQL schemas with decorators       |
 | [urql](https://formidable.com/open-source/urql/)                                                                     | GraphQL client for React, Svelte, Vue, or plain JavaScript            |
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ## 🐳 Kubernetes / Docker
@@ -383,6 +431,8 @@
 | [ingress-nginx](https://github.com/kubernetes/ingress-nginx)             | NGINX Ingress controller for Kubernetes, used for routing external traffic to services in a Kubernetes cluster |
 | [skaffold](https://github.com/GoogleContainerTools/skaffold)             | Continuous development command-line tool for Kubernetes applications                                           |
 | [node-nats-streaming](https://www.npmjs.com/package/node-nats-streaming) | NATS Streaming Server client library for Node.js                                                               |
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -394,3 +444,5 @@
 | [Alamofire](https://github.com/Alamofire/Alamofire)          | Library for handling HTTP requests in Swift                                           |
 | [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)       | Library for parsing and handling JSON data in Swift                                   |
 | [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) | Library for implementing swipeable cells in table views and collection views in Swift |
+
+[Back to Top](#table-of-contents)
