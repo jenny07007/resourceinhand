@@ -27,6 +27,7 @@
   - [🌼 graphQL](#-graphql)
   - [🐳 Kubernetes / Docker](#-kubernetes--docker)
   - [🍎 iOS - Swift](#-ios---swift)
+  - [🐍 Python](#-python)
 
 ## 🤖 AI
 
@@ -444,5 +445,30 @@
 | [Alamofire](https://github.com/Alamofire/Alamofire)          | Library for handling HTTP requests in Swift                                           |
 | [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)       | Library for parsing and handling JSON data in Swift                                   |
 | [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) | Library for implementing swipeable cells in table views and collection views in Swift |
+
+[Back to Top](#table-of-contents)
+
+---
+
+## 🐍 Python
+
+| Library/Tool                                                                | Description                                                                 |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [argparse](https://docs.python.org/3/library/argparse.html)                 | Parser for command-line options, arguments and sub-commands                 |
+| [python-dotenv](https://github.com/theskumar/python-dotenv)                 | Read key-value pairs from a .env file and set them as environment variables |
+| [requests](https://requests.readthedocs.io/en/latest/)                      | Python HTTP for Humans                                                      |
+| [beautifulsoup](https://pypi.org/project/beautifulsoup4/)                   | Foe scraping information from web pages                                     |
+| [josn](https://docs.python.org/3/library/json.html)                         | JSON encoder and decoder                                                    |
+| [datetime](https://docs.python.org/3/library/datetime.html)                 | Manipulating dates and times.                                               |
+| [pillow](https://pillow.readthedocs.io/en/stable/)                          | A fork of PIL for image processing                                          |
+| [sqlalchemy](https://www.sqlalchemy.org/)                                   | The Python SQL toolkit and ORM                                              |
+| [pandas](https://pandas.pydata.org/)                                        | Data analysis and manipulation tool                                         |
+| [numpy](https://numpy.org/)                                                 | For scientific computing                                                    |
+| [ntlk](https://www.nltk.org/)                                               | Natural Language Toolkit                                                    |
+| [faiss](https://faiss.ai/)                                                  | For similarity search and clustering of vectors                             |
+| [ipython](https://ipython.org/)                                             | Productive Interactive Computing                                            |
+| [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | Get the transcripts/subtitles for a given YouTube video                     |
+| [pytube](https://github.com/pytube/pytube)                                  | Downloading YouTube Videos                                                  |
+| [nest-asyncio](https://github.com/erdewit/nest_asyncio)                     | Solution for `RuntimeError: This event loop is already running`             |
 
 [Back to Top](#table-of-contents)
