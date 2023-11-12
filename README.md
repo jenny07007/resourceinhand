@@ -154,11 +154,12 @@
 
 ## 💅 Fonts
 
-| Library/Tool                                                   | Description        |
-| -------------------------------------------------------------- | ------------------ |
-| [Dank Mono](https://dank.sh/)                                  |                    |
-| [Monoid](https://larsenwork.com/monoid/)                       |                    |
-| [SF Mono Font](https://github.com/ZulwiyozaPutra/SF-Mono-Font) | Apple SF-Mono-Font |
+| Library/Tool                                                   | Description                                     |
+| -------------------------------------------------------------- | ----------------------------------------------- |
+| [Dank Mono](https://dank.sh/)                                  |                                                 |
+| [Monoid](https://larsenwork.com/monoid/)                       |                                                 |
+| [SF Mono Font](https://github.com/ZulwiyozaPutra/SF-Mono-Font) | Apple SF-Mono-Font                              |
+| [nerd fonts](https://github.com/ryanoasis/nerd-fonts)          | Iconic font aggregator, collection, and patcher |
 
 [Back to Top](#table-of-contents)
 
@@ -245,6 +246,7 @@
 | [recharts](https://recharts.org/en-US/)                                                          | Composable, simple and flexible API                                                            |
 | [react-i18next](https://react.i18next.com/)                                                      | Comprehensive, handles translations, formatting                                                |
 | [storybook](https://storybook.js.org/)                                                           | Catalog UI components, save component variations as stories                                    |
+| [drei](https://github.com/pmndrs/drei)                                                           | Helpers for react-three-fiber                                                                  |
 
 [Back to Top](#table-of-contents)
 
@@ -304,7 +306,8 @@
 | [MomentJS](https://momentjs.com/)                                       | Handling date and time in JavaScript                                                      |
 | [lodash](https://lodash.com/)                                           | Utility library for working with data                                                     |
 | [concurrently](https://www.npmjs.com/package/concurrently)              | Run multiple commands concurrently                                                        |
-| [Classnames](https://www.npmjs.com/package/classnames)                  | Conditionally join CSS classes together                                                   |
+| [classnames](https://www.npmjs.com/package/classnames)                  | Conditionally join CSS classes together                                                   |
+| [clsx](https://github.com/lukeed/clsx)                                  | A tiny (228B) utility for constructing `className` strings conditionally                  |
 | [ejs](https://www.ejs.co/#promo)                                        | Templating language using plain JavaScript                                                |
 | [express-ejs-layout](https://www.npmjs.com/package/express-ejs-layouts) | Layout support for EJS in Express                                                         |
 | [hbs](https://github.com/pillarjs/hbs)                                  | View engine for Express                                                                   |
