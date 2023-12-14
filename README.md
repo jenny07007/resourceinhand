@@ -14,10 +14,10 @@
   - [🍄 Testing](#-testing)
   - [🚔 CI/CD](#-cicd)
   - [👯‍♀️ 3D graphics](#️-3d-graphics)
-  - [🔰 React](#-react)
-  - [❤️‍🔥 Remix](#️-remix)
-  - [⏭️ Nextjs](#️-nextjs)
-  - [🏈 Redux](#-redux)
+  - [🔰 React Ecosystem](#-react-ecosystem)
+    - [❤️‍🔥 Remix](#️-remix)
+    - [⏭️ Nextjs](#️-nextjs)
+    - [🏈 Redux](#-redux)
   - [🏄 npm](#-npm)
   - [📦 Bundler](#-bundler)
   - [🕵️‍♀️ Back-end](#️️-back-end)
@@ -29,19 +29,23 @@
   - [🍎 iOS - Swift](#-ios---swift)
   - [🐍 Python](#-python)
 
+> 🥑 personal preferences
+
 ## 🤖 AI
 
-| Library/Tool                                                   | Description                                                                   |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Upstash](https://upstash.com/)                                | In-memory data store for serverless applications                              |
-| [Upstash Rate Limit SDK](https://github.com/upstash/ratelimit) | Rate limiting library for serverless runtimes                                 |
-| [Upstash QStash](https://github.com/upstash/sdk-qstash-ts)     | HTTP-based messaging and scheduling solution for serverless and edge runtimes |
-| [pinecone](https://www.pinecone.io/)                           | Vector database for machine learning applications                             |
-| [streamlit](https://streamlit.io/)                             | Turn data into shareable web apps with Python                                 |
-| [langchain](https://langchain.com/)                            | Framework for developing applications powered by language models              |
-| [Vercel AI SDK](https://sdk.vercel.ai/docs)                    | SDK for building AI-powered user interfaces                                   |
-| [flowiseAI](https://flowiseai.com/)                            | Drag & drop UI for building customized LLM (Large Language Model) flows       |
-| [pgvector](https://github.com/pgvector/pgvector)               | Open-source vector similarity search for Postgres                             |
+| Library/Tool                                                   | Description                                                                                         |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [Upstash](https://upstash.com/)                                | In-memory data store for serverless applications                                                    |
+| [Upstash Rate Limit SDK](https://github.com/upstash/ratelimit) | Rate limiting library for serverless runtimes                                                       |
+| [Upstash QStash](https://github.com/upstash/sdk-qstash-ts)     | HTTP-based messaging and scheduling solution for serverless and edge runtimes                       |
+| [pinecone](https://www.pinecone.io/)                           | Vector database for machine learning applications                                                   |
+| [streamlit](https://streamlit.io/)                             | Turn data into shareable web apps with Python                                                       |
+| [langchain](https://langchain.com/)                            | Framework for developing applications powered by language models                                    |
+| [Vercel AI SDK](https://sdk.vercel.ai/docs)                    | SDK for building AI-powered user interfaces                                                         |
+| [flowiseAI](https://flowiseai.com/)                            | Drag & drop UI for building customized LLM (Large Language Model) flows                             |
+| [pgvector](https://github.com/pgvector/pgvector)               | Open-source vector similarity search for Postgres                                                   |
+| [ray](https://openai.com/)                                     | Open-source unified framework for scaling AI and Python applications                                |
+| [anyscale](https://www.anyscale.com/)                          | Platform that simplifies developing, deploying, and managing scalable AI and Python apps using Ray. |
 
 [Back to Top](#table-of-contents)
 
@@ -129,7 +133,7 @@
 | [Ramda](https://ramdajs.com/)                               | Functional programming library for JavaScript                 |
 | [db-schema](https://dbdiagram.io/home)                      | Create entity-relationship diagrams for databases             |
 | [Find Dev Tools](https://finddev.tools/compare)             | List of developer tools and their comparisons                 |
-| [zod](https://zod.dev/)                                     | TypeScript-first schema validation with static type inference |
+| [zod](https://zod.dev/) 🥑                                  | TypeScript-first schema validation with static type inference |
 
 [Back to Top](#table-of-contents)
 
@@ -177,17 +181,17 @@
 
 ## 🍄 Testing
 
-| Library/Tool                                                                     | Description                                                         |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [Jest](https://jestjs.io/)                                                       |                                                                     |
-| [Enzyme](https://airbnb.io/enzyme/)                                              | A tool for testing React components created by Airbnb               |
-| [enzyme-adapter-react-16](https://www.npmjs.com/package/enzyme-adapter-react-16) |                                                                     |
-| [moxios](https://www.npmjs.com/package/moxios)                                   | Mock axios requests for testing                                     |
-| [mocha](https://mochajs.org/)                                                    |                                                                     |
-| [jsdom](https://www.npmjs.com/package/jsdom)                                     | Something kind of like a fake browser inside of NodeJS              |
-| [cypress](https://github.com/cypress-io/cypress)                                 | E2E testing framework                                               |
-| [redux-mock-store](https://www.npmjs.com/package/redux-mock-store)               | A mock store for testing Redux async action creators and middleware |
-| [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server)          | Spinning up mongod in memory for fast tests                         |
+| Library/Tool                                                                     | Description                                                                |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [Jest](https://jestjs.io/)                                                       |                                                                            |
+| [Enzyme](https://airbnb.io/enzyme/)                                              | A tool for testing React components created by Airbnb                      |
+| [enzyme-adapter-react-16](https://www.npmjs.com/package/enzyme-adapter-react-16) |                                                                            |
+| [moxios](https://www.npmjs.com/package/moxios)                                   | Mock axios requests for testing                                            |
+| [mocha](https://mochajs.org/)                                                    |                                                                            |
+| [jsdom](https://www.npmjs.com/package/jsdom)                                     | A JavaScript implementation of various web standards, for use with Node.js |
+| [cypress](https://github.com/cypress-io/cypress)                                 | E2E testing framework                                                      |
+| [redux-mock-store](https://www.npmjs.com/package/redux-mock-store)               | A mock store for testing Redux async action creators and middleware        |
+| [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server)          | Spinning up mongod in memory for fast tests                                |
 
 [Back to Top](#table-of-contents)
 
@@ -214,7 +218,7 @@
 
 ---
 
-## 🔰 React
+## 🔰 React Ecosystem
 
 | Library/Tool                                                                                     | Description                                                                                    |
 | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
@@ -234,7 +238,7 @@
 | [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)                   | A lean Prism highlighter component for React                                                   |
 | [react-query](https://react-query.tanstack.com/docs/overview)                                    | Enhances data-fetching and state management, caching, and synchronizing data                   |
 | [react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer)         | React implementation of the Intersection Observer API                                          |
-| [react-hook-form](https://react-hook-form.com/)                                                  | Leverages React hooks, lightweight and intuitive API                                           |
+| [react-hook-form](https://react-hook-form.com/) 🥑                                               | Leverages React hooks, lightweight and intuitive API                                           |
 | [react-toast](https://github.com/moharnadreza/react-toast)                                       | lightweight toast notification for react apps                                                  |
 | [react-three-fiber](https://github.com/react-spring/react-three-fiber)                           | Using THREEjs with React                                                                       |
 | [react-dom-confetti](https://github.com/daniel-lundin/react-dom-confetti)                        | Confetti effects                                                                               |
@@ -248,22 +252,14 @@
 | [storybook](https://storybook.js.org/)                                                           | Catalog UI components, save component variations as stories                                    |
 | [drei](https://github.com/pmndrs/drei)                                                           | Helpers for react-three-fiber                                                                  |
 
-[Back to Top](#table-of-contents)
-
----
-
-## ❤️‍🔥 Remix
+### ❤️‍🔥 Remix
 
 | Library/Tool                                          | Description                                       |
 | ----------------------------------------------------- | ------------------------------------------------- |
 | [remix-auth](https://github.com/sergiodxa/remix-auth) | Authentication library for Remix web framework    |
 | [metronome](https://metronome.sh/)                    | Metronome - A task scheduling and management tool |
 
-[Back to Top](#table-of-contents)
-
----
-
-## ⏭️ Nextjs
+### ⏭️ Nextjs
 
 | Library/Tool                                               | Description                                                  |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
@@ -272,11 +268,7 @@
 | [next-seo](https://github.com/garmeeh/next-seo)            | SEO (Search Engine Optimization) utility for Next.js         |
 | [swr](https://swr.vercel.app/)                             | React hooks for remote data fetching and caching             |
 
-[Back to Top](#table-of-contents)
-
----
-
-## 🏈 Redux
+### 🏈 Redux
 
 | Library/Tool                                                                                            | Description                                                       |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -303,7 +295,6 @@
 | [npm-check-updates](https://www.getpostman.com/)                        | Upgrading `package.json` dependencies to the latest versions, ignoring specified versions |
 | [npm-run-all](https://www.npmjs.com/package/npm-run-all)                | Run multiple npm scripts in parallel                                                      |
 | [date-fns](https://date-fns.org/)                                       | Modern JavaScript date utility library                                                    |
-| [MomentJS](https://momentjs.com/)                                       | Handling date and time in JavaScript                                                      |
 | [lodash](https://lodash.com/)                                           | Utility library for working with data                                                     |
 | [concurrently](https://www.npmjs.com/package/concurrently)              | Run multiple commands concurrently                                                        |
 | [classnames](https://www.npmjs.com/package/classnames)                  | Conditionally join CSS classes together                                                   |
@@ -319,6 +310,7 @@
 | [node-redis](https://www.npmjs.com/package/redis)                       | Redis client for Node.js                                                                  |
 | [node-fetch](https://www.npmjs.com/package/node-fetch)                  | Bring window.fetch to Node.js                                                             |
 | [localforage](https://www.npmjs.com/package/localforage)                | Storage library for JavaScript using IndexedDB or WebSQL                                  |
+| [dayjs](https://github.com/iamkun/dayjs/)                               | 2kB immutable date-time library alternative to Moment.js with the same modern API         |
 
 [Back to Top](#table-of-contents)
 
@@ -417,7 +409,7 @@
 | [graphql-yoga](https://www.npmjs.com/package/graphql-yoga)                                                           | GraphQL server for building GraphQL APIs                              |
 | [babel-plugin-transform-object-rest-spread](https://www.npmjs.com/package/babel-plugin-transform-object-rest-spread) | Babel plugin for using the spread operator with Node.js               |
 | [dataloader](https://github.com/graphql/dataloader)                                                                  | Library for caching resolvers inside a GraphQL server                 |
-| [prisma](https://www.prisma.io/)                                                                                     | Modern database ORM and query builder for Node.js and TypeScript      |
+| [prisma](https://www.prisma.io/) ⭐                                                                                  | Modern database ORM and query builder for Node.js and TypeScript      |
 | [hasura](https://hasura.io/)                                                                                         | GraphQL engine for instant, realtime GraphQL APIs                     |
 | [graphql-everywhere](https://github.com/apollographql/apollo-client/tree/master/packages/graphql-anywhere)           | Library for running GraphQL queries anywhere (not just Apollo Client) |
 | [graphql-code-generator](https://graphql-code-generator.com/)                                                        | Generate TypeScript typings for GraphQL operations                    |
