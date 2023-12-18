@@ -65,6 +65,7 @@
 | [the sugar CLI](https://docs.metaplex.com/developer-tools/sugar/overview/installation)   | CLI tool for Metaplex development                                             |
 | [candy machine ui](https://github.com/metaplex-foundation/candy-machine-ui)              | User interface for Metaplex Candy Machine                                     |
 | [anchor-lang](https://www.anchor-lang.com/)                                              | Solana's Sealevel runtime framework                                           |
+| [testnet faucet from circle](https://faucet.circle.com/)                                 | Get 10 free $USDC or $EURC to Devnet for testnet                              |
 
 [Back to Top](#table-of-contents)
 
