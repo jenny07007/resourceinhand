@@ -33,19 +33,21 @@
 
 ## 🤖 AI
 
-| Library/Tool                                                   | Description                                                                                         |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [Upstash](https://upstash.com/)                                | In-memory data store for serverless applications                                                    |
-| [Upstash Rate Limit SDK](https://github.com/upstash/ratelimit) | Rate limiting library for serverless runtimes                                                       |
-| [Upstash QStash](https://github.com/upstash/sdk-qstash-ts)     | HTTP-based messaging and scheduling solution for serverless and edge runtimes                       |
-| [pinecone](https://www.pinecone.io/)                           | Vector database for machine learning applications                                                   |
-| [streamlit](https://streamlit.io/)                             | Turn data into shareable web apps with Python                                                       |
-| [langchain](https://langchain.com/)                            | Framework for developing applications powered by language models                                    |
-| [Vercel AI SDK](https://sdk.vercel.ai/docs)                    | SDK for building AI-powered user interfaces                                                         |
-| [flowiseAI](https://flowiseai.com/)                            | Drag & drop UI for building customized LLM (Large Language Model) flows                             |
-| [pgvector](https://github.com/pgvector/pgvector)               | Open-source vector similarity search for Postgres                                                   |
-| [ray](https://openai.com/)                                     | Open-source unified framework for scaling AI and Python applications                                |
-| [anyscale](https://www.anyscale.com/)                          | Platform that simplifies developing, deploying, and managing scalable AI and Python apps using Ray. |
+| Library/Tool                                                    | Description                                                                                                                              |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [Upstash](https://upstash.com/)                                 | In-memory data store for serverless applications                                                                                         |
+| [Upstash Rate Limit SDK](https://github.com/upstash/ratelimit)  | Rate limiting library for serverless runtimes                                                                                            |
+| [Upstash QStash](https://github.com/upstash/sdk-qstash-ts)      | HTTP-based messaging and scheduling solution for serverless and edge runtimes                                                            |
+| [pinecone](https://www.pinecone.io/)                            | Vector database for machine learning applications                                                                                        |
+| [streamlit](https://streamlit.io/)                              | Turn data into shareable web apps with Python                                                                                            |
+| [langchain](https://langchain.com/)                             | Framework for developing applications powered by language models                                                                         |
+| [Vercel AI SDK](https://sdk.vercel.ai/docs)                     | SDK for building AI-powered user interfaces                                                                                              |
+| [flowiseAI](https://flowiseai.com/)                             | Drag & drop UI for building customized LLM (Large Language Model) flows                                                                  |
+| [pgvector](https://github.com/pgvector/pgvector)                | Open-source vector similarity search for Postgres                                                                                        |
+| [ray](https://openai.com/)                                      | Open-source unified framework for scaling AI and Python applications                                                                     |
+| [anyscale](https://www.anyscale.com/)                           | Platform that simplifies developing, deploying, and managing scalable AI and Python apps using Ray.                                      |
+| [unstructured](https://github.com/Unstructured-IO/unstructured) | Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. |
+| [Replicate](https://replicate.com/)                             | Run machine learning models with a cloud API                                                                                             |
 
 [Back to Top](#table-of-contents)
 
@@ -296,6 +298,8 @@
 | [npm-check-updates](https://www.getpostman.com/)                        | Upgrading `package.json` dependencies to the latest versions, ignoring specified versions |
 | [npm-run-all](https://www.npmjs.com/package/npm-run-all)                | Run multiple npm scripts in parallel                                                      |
 | [date-fns](https://date-fns.org/)                                       | Modern JavaScript date utility library                                                    |
+| [dayjs](https://github.com/iamkun/dayjs/)                               | 2kB immutable date-time library alternative to Moment.js with the same modern API         |
+| [tempo](https://github.com/formkit/tempo)                               | Parse, format, manipulate, and internationalize dates and times in JS and TS. 1.12MB      |
 | [lodash](https://lodash.com/)                                           | Utility library for working with data                                                     |
 | [concurrently](https://www.npmjs.com/package/concurrently)              | Run multiple commands concurrently                                                        |
 | [classnames](https://www.npmjs.com/package/classnames)                  | Conditionally join CSS classes together                                                   |
@@ -311,7 +315,6 @@
 | [node-redis](https://www.npmjs.com/package/redis)                       | Redis client for Node.js                                                                  |
 | [node-fetch](https://www.npmjs.com/package/node-fetch)                  | Bring window.fetch to Node.js                                                             |
 | [localforage](https://www.npmjs.com/package/localforage)                | Storage library for JavaScript using IndexedDB or WebSQL                                  |
-| [dayjs](https://github.com/iamkun/dayjs/)                               | 2kB immutable date-time library alternative to Moment.js with the same modern API         |
 
 [Back to Top](#table-of-contents)
 
