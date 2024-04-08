@@ -7,6 +7,7 @@
   - [🪐 Solana](#-solana)
   - [🥷 Blockchain](#-blockchain)
   - [🎈 CMS](#-cms)
+  - [🌍 Edge](#-edge)
   - [🍺 Tools](#-tools)
   - [💆 Styling](#-styling)
   - [💅 Fonts](#-fonts)
@@ -68,6 +69,7 @@
 | [candy machine ui](https://github.com/metaplex-foundation/candy-machine-ui)              | User interface for Metaplex Candy Machine                                     |
 | [anchor-lang](https://www.anchor-lang.com/)                                              | Solana's Sealevel runtime framework                                           |
 | [testnet faucet from circle](https://faucet.circle.com/)                                 | Get 10 free $USDC or $EURC to Devnet for testnet                              |
+| [clockwork](https://github.com/clockwork-xyz/clockwork)                                  | Smart-contract automation on Solana.                                          |
 
 [Back to Top](#table-of-contents)
 
@@ -97,7 +99,7 @@
 
 ## 🎈 CMS
 
-| CMS/Tool                                   | Description                     |
+| Library/Tool                               | Description                     |
 | ------------------------------------------ | ------------------------------- |
 | [strapi](https://github.com/strapi/strapi) | Node.js headless CMS            |
 | [contentful](https://www.contentful.com/)  | Headless CMS                    |
@@ -107,6 +109,14 @@
 [Back to Top](#table-of-contents)
 
 ---
+
+## 🌍 Edge
+
+| Library/Tool                | Description                                                 |
+| --------------------------- | ----------------------------------------------------------- |
+| [hono](https://hono.dev) 🥑 | A small, simple, and ultrafast web framework for the Edges. |
+
+[Back to Top](#table-of-contents)
 
 ## 🍺 Tools
 
