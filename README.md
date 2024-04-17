@@ -147,6 +147,7 @@
 | [db-schema](https://dbdiagram.io/home)                      | Create entity-relationship diagrams for databases             |
 | [Find Dev Tools](https://finddev.tools/compare)             | List of developer tools and their comparisons                 |
 | [zod](https://zod.dev/) 🥑                                  | TypeScript-first schema validation with static type inference |
+| [crontab gurn](https://crontab.guru) 🥑                     | Simple editor for cron schedule expressions                   |
 
 [Back to Top](#table-of-contents)
 
@@ -264,6 +265,7 @@
 | [react-i18next](https://react.i18next.com/)                                                      | Comprehensive, handles translations, formatting                                                |
 | [storybook](https://storybook.js.org/)                                                           | Catalog UI components, save component variations as stories                                    |
 | [drei](https://github.com/pmndrs/drei)                                                           | Helpers for react-three-fiber                                                                  |
+| [Tremor](https://www.tremor.so/)                                                                 | React components to build charts and dashboards                                                |
 
 ### ❤️‍🔥 Remix
 
@@ -280,6 +282,7 @@
 | [next-auth](https://next-auth.js.org/)                     | Authorization library for Next.js applications               |
 | [next-seo](https://github.com/garmeeh/next-seo)            | SEO (Search Engine Optimization) utility for Next.js         |
 | [swr](https://swr.vercel.app/)                             | React hooks for remote data fetching and caching             |
+| [uploadthing](https://uploadthing.com/) 🥑                 | File Uploads For Next.js Developers                          |
 
 ### 🏈 Redux
 
