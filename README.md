@@ -148,6 +148,7 @@
 | [Find Dev Tools](https://finddev.tools/compare)             | List of developer tools and their comparisons                 |
 | [zod](https://zod.dev/) 🥑                                  | TypeScript-first schema validation with static type inference |
 | [crontab gurn](https://crontab.guru) 🥑                     | Simple editor for cron schedule expressions                   |
+| [svg-spinners](https://github.com/n3r4zzurr0/svg-spinners)  | SVG spinners                                                  |
 
 [Back to Top](#table-of-contents)
 
@@ -172,12 +173,13 @@
 
 ## 💅 Fonts
 
-| Library/Tool                                                   | Description                                     |
-| -------------------------------------------------------------- | ----------------------------------------------- |
-| [Dank Mono](https://dank.sh/)                                  |                                                 |
-| [Monoid](https://larsenwork.com/monoid/)                       |                                                 |
-| [SF Mono Font](https://github.com/ZulwiyozaPutra/SF-Mono-Font) | Apple SF-Mono-Font                              |
-| [nerd fonts](https://github.com/ryanoasis/nerd-fonts)          | Iconic font aggregator, collection, and patcher |
+| Library/Tool                                                   | Description                                                |
+| -------------------------------------------------------------- | ---------------------------------------------------------- |
+| [Dank Mono](https://dank.sh/)                                  |                                                            |
+| [Monoid](https://larsenwork.com/monoid/)                       |                                                            |
+| [SF Mono Font](https://github.com/ZulwiyozaPutra/SF-Mono-Font) | Apple SF-Mono-Font                                         |
+| [nerd fonts](https://github.com/ryanoasis/nerd-fonts)          | Iconic font aggregator, collection, and patcher            |
+| [fontsource](https://fontsource.org/)                          | Self-host Open Source fonts in neatly bundled NPM packages |
 
 [Back to Top](#table-of-contents)
 
@@ -279,7 +281,7 @@
 | Library/Tool                                               | Description                                                  |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
 | [next-rosetta](https://www.npmjs.com/package/next-rosetta) | Internationalization (i18n) support for Next.js applications |
-| [next-auth](https://next-auth.js.org/)                     | Authorization library for Next.js applications               |
+| [authjs](https://authjs.dev/)                              | Authentication for the web.                                  |
 | [next-seo](https://github.com/garmeeh/next-seo)            | SEO (Search Engine Optimization) utility for Next.js         |
 | [swr](https://swr.vercel.app/)                             | React hooks for remote data fetching and caching             |
 | [uploadthing](https://uploadthing.com/) 🥑                 | File Uploads For Next.js Developers                          |
