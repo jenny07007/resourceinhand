@@ -56,20 +56,35 @@
 
 ## 🪐 Solana
 
-| Library/Tool                                                                             | Description                                                                   |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [sol dev](https://www.soldev.app)                                                        | Latest updates in the Solana ecosystem                                        |
-| [solana-web3](https://github.com/solana-labs/solana-web3.js)                             | Solana JavaScript SDK                                                         |
-| [wallet-adapter](https://github.com/solana-labs/wallet-adapter)                          | Modular TypeScript wallet adapters and components for Solana applications     |
-| [solana-pay](https://github.com/solana-labs/solana-pay)                                  | Solana payment processing library                                             |
-| [spl-token](https://www.npmjs.com/package/@solana/spl-token)                             | TypeScript library for interacting with the SPL Token and Token-2022 programs |
-| [metaplexjs](https://github.com/metaplex-foundation/js)                                  | JavaScript SDK for interacting with Metaplex's programs                       |
-| [mpl-token-metadata](https://www.npmjs.com/package/@metaplex-solarti/mpl-token-metadata) | Metadata handling for Metaplex tokens                                         |
-| [the sugar CLI](https://docs.metaplex.com/developer-tools/sugar/overview/installation)   | CLI tool for Metaplex development                                             |
-| [candy machine ui](https://github.com/metaplex-foundation/candy-machine-ui)              | User interface for Metaplex Candy Machine                                     |
-| [anchor-lang](https://www.anchor-lang.com/)                                              | Solana's Sealevel runtime framework                                           |
-| [testnet faucet from circle](https://faucet.circle.com/)                                 | Get 10 free $USDC or $EURC to Devnet for testnet                              |
-| [clockwork](https://github.com/clockwork-xyz/clockwork)                                  | Smart-contract automation on Solana.                                          |
+| Library/Tool                                                                             | Description                                                                                         |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [sol dev](https://www.soldev.app)                                                        | Latest updates in the Solana ecosystem                                                              |
+| [solana-web3](https://github.com/solana-labs/solana-web3.js)                             | Solana JavaScript SDK                                                                               |
+| [wallet-adapter](https://github.com/solana-labs/wallet-adapter)                          | Modular TypeScript wallet adapters and components for Solana applications                           |
+| [solana-pay](https://github.com/solana-labs/solana-pay)                                  | Solana payment processing library                                                                   |
+| [spl-token](https://www.npmjs.com/package/@solana/spl-token)                             | TypeScript library for interacting with the SPL Token and Token-2022 programs                       |
+| [metaplexjs](https://github.com/metaplex-foundation/js)                                  | JavaScript SDK for interacting with Metaplex's programs                                             |
+| [mpl-token-metadata](https://www.npmjs.com/package/@metaplex-solarti/mpl-token-metadata) | Metadata handling for Metaplex tokens                                                               |
+| [the sugar CLI](https://docs.metaplex.com/developer-tools/sugar/overview/installation)   | CLI tool for Metaplex development                                                                   |
+| [candy machine ui](https://github.com/metaplex-foundation/candy-machine-ui)              | User interface for Metaplex Candy Machine                                                           |
+| [anchor-lang](https://www.anchor-lang.com/)                                              | Solana's Sealevel runtime framework                                                                 |
+| [testnet faucet from circle](https://faucet.circle.com/)                                 | Get 10 free $USDC or $EURC to Devnet for testnet                                                    |
+| [clockwork](https://github.com/clockwork-xyz/clockwork)                                  | Smart-contract automation on Solana.                                                                |
+| [session-keys](https://github.com/magicblock-labs/session-keys?tab=readme-ov-file)       | Manage sessions in Solana Anchor Programs.                                                          |
+| [@civic/lexiw](https://www.npmjs.com/package/@civic/lexiw)                               | An encryption mechanism based on "Lexi Magic" - deriving an encryption key from signing public data |
+
+| Examples                                                                                       | Description                                               |
+| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [solana-program-library](https://github.com/solana-labs/solana-program-library/tree/master) 🥑 | A collection of Solana programs maintained by Solana Labs |
+| [solana cookbook](https://solanacookbook.com/#contributing)                                    | Key concepts and examples for app development             |
+| [program examples](https://github.com/solana-developers/program-examples)                      | A repository of Solana program examples                   |
+| [solana stackexchange](https://solana.stackexchange.com/) 🥑                                   | Ask and answer questions for developers on Solana         |
+| [cu_optimizations](https://github.com/solana-developers/cu_optimizations)                      | Collection of potential CU optimizations for programs.    |
+| [helpers](https://github.com/solana-developers/helpers)                                        | JS/TS helpers for Solana                                  |
+
+| Blogs                                      | Description |
+| ------------------------------------------ | ----------- |
+| [helius blog](https://www.helius.dev/blog) | 🥑          |
 
 [Back to Top](#table-of-contents)
 
@@ -120,35 +135,39 @@
 
 ## 🍺 Tools
 
-| Library/Tool                                                | Description                                                   |
-| ----------------------------------------------------------- | ------------------------------------------------------------- |
-| [excalidraw](https://github.com/excalidraw/excalidraw)      | Virtual whiteboard for sketching hand-drawn like diagrams     |
-| [glot](https://glot.io/)                                    | An online code execution and sharing platform                 |
-| [devices sizes](https://viewportsizer.com/devices/)         | Viewport size and device dimensions reference                 |
-| [MakeTypes from JSON samples](https://jvilk.com/MakeTypes/) | Generate TypeScript types from JSON samples                   |
-| [Robohash](https://robohash.org/)                           | Generate unique robot avatars                                 |
-| [Dillinger](https://dillinger.io/)                          | Markdown editor with live preview                             |
-| [JSONPlaceholder](https://jsonplaceholder.typicode.com/)    | Fake online REST API for testing and prototyping              |
-| [faker](https://github.com/Marak/Faker.js)                  | Generate fake data in Node.js and the browser                 |
-| [Public APIs](https://public-apis.xyz/)                     | A collection of public APIs                                   |
-| [hoppscotch](https://hoppscotch.io/)                        | API development and testing tool                              |
-| [Modernizr](https://modernizr.com/)                         | Detect HTML5 and CSS3 features in various browsers            |
-| [JSON Server](https://www.npmjs.com/package/json-server)    | Create a fake REST API server                                 |
-| [localtunnel](https://localtunnel.github.io/www/)           | Expose local web servers over the internet                    |
-| [JSON Schema Generator](https://www.jsonschema.net/)        | Generate JSON Schemas from JSON data                          |
-| [GreenSock](https://greensock.com/)                         | Animation library for the web                                 |
-| [Docusaurus](https://docusaurus.io/en/)                     | Documentation website generator                               |
-| [serverless](https://serverless.com/)                       | Framework for building serverless applications                |
-| [yup](https://github.com/jquense/yup)                       | JavaScript object schema validator                            |
-| [matter.js](https://brm.io/matter-js/)                      | 2D physics engine for the web                                 |
-| [axios](https://www.npmjs.com/package/axios)                | Promise-based HTTP client for the browser and Node.js         |
-| [shortId](https://github.com/dylang/shortid)                | Generate short unique IDs                                     |
-| [Ramda](https://ramdajs.com/)                               | Functional programming library for JavaScript                 |
-| [db-schema](https://dbdiagram.io/home)                      | Create entity-relationship diagrams for databases             |
-| [Find Dev Tools](https://finddev.tools/compare)             | List of developer tools and their comparisons                 |
-| [zod](https://zod.dev/) 🥑                                  | TypeScript-first schema validation with static type inference |
-| [crontab gurn](https://crontab.guru) 🥑                     | Simple editor for cron schedule expressions                   |
-| [svg-spinners](https://github.com/n3r4zzurr0/svg-spinners)  | SVG spinners                                                  |
+| Library/Tool                                                | Description                                                                                              |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [excalidraw](https://github.com/excalidraw/excalidraw)      | Virtual whiteboard for sketching hand-drawn like diagrams                                                |
+| [glot](https://glot.io/)                                    | An online code execution and sharing platform                                                            |
+| [devices sizes](https://viewportsizer.com/devices/)         | Viewport size and device dimensions reference                                                            |
+| [MakeTypes from JSON samples](https://jvilk.com/MakeTypes/) | Generate TypeScript types from JSON samples                                                              |
+| [Robohash](https://robohash.org/)                           | Generate unique robot avatars                                                                            |
+| [Dillinger](https://dillinger.io/)                          | Markdown editor with live preview                                                                        |
+| [JSONPlaceholder](https://jsonplaceholder.typicode.com/)    | Fake online REST API for testing and prototyping                                                         |
+| [faker](https://github.com/Marak/Faker.js)                  | Generate fake data in Node.js and the browser                                                            |
+| [Public APIs](https://public-apis.xyz/)                     | A collection of public APIs                                                                              |
+| [hoppscotch](https://hoppscotch.io/)                        | API development and testing tool                                                                         |
+| [Modernizr](https://modernizr.com/)                         | Detect HTML5 and CSS3 features in various browsers                                                       |
+| [JSON Server](https://www.npmjs.com/package/json-server)    | Create a fake REST API server                                                                            |
+| [localtunnel](https://localtunnel.github.io/www/)           | Expose local web servers over the internet                                                               |
+| [JSON Schema Generator](https://www.jsonschema.net/)        | Generate JSON Schemas from JSON data                                                                     |
+| [GreenSock](https://greensock.com/)                         | Animation library for the web                                                                            |
+| [Docusaurus](https://docusaurus.io/en/)                     | Documentation website generator                                                                          |
+| [serverless](https://serverless.com/)                       | Framework for building serverless applications                                                           |
+| [yup](https://github.com/jquense/yup)                       | JavaScript object schema validator                                                                       |
+| [matter.js](https://brm.io/matter-js/)                      | 2D physics engine for the web                                                                            |
+| [axios](https://www.npmjs.com/package/axios)                | Promise-based HTTP client for the browser and Node.js                                                    |
+| [shortId](https://github.com/dylang/shortid)                | Generate short unique IDs                                                                                |
+| [Ramda](https://ramdajs.com/)                               | Functional programming library for JavaScript                                                            |
+| [db-schema](https://dbdiagram.io/home)                      | Create entity-relationship diagrams for databases                                                        |
+| [Find Dev Tools](https://finddev.tools/compare)             | List of developer tools and their comparisons                                                            |
+| [zod](https://zod.dev/) 🥑                                  | TypeScript-first schema validation with static type inference                                            |
+| [crontab gurn](https://crontab.guru) 🥑                     | Simple editor for cron schedule expressions                                                              |
+| [svg-spinners](https://github.com/n3r4zzurr0/svg-spinners)  | SVG spinners                                                                                             |
+| [ky](https://github.com/sindresorhus/ky)                    | Tiny & elegant JavaScript HTTP client based on the Fetch API                                             |
+| [cuid2](https://github.com/paralleldrive/cuid2) 🥑          | Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance. |
+| [honojs](https://hono.dev/) 🥑                              | Fast, lightweight, built on Web Standards. Support for any JavaScript runtime.                           |
+| [drizzle](https://github.com/drizzle-team/drizzle-orm) 🥑   | Headless TypeScript ORM                                                                                  |
 
 [Back to Top](#table-of-contents)
 
@@ -268,6 +287,7 @@
 | [storybook](https://storybook.js.org/)                                                           | Catalog UI components, save component variations as stories                                    |
 | [drei](https://github.com/pmndrs/drei)                                                           | Helpers for react-three-fiber                                                                  |
 | [Tremor](https://www.tremor.so/)                                                                 | React components to build charts and dashboards                                                |
+| [react-use](https://github.com/streamich/react-use                                               | React Hooks                                                                                    |
 
 ### ❤️‍🔥 Remix
 
@@ -388,6 +408,7 @@
 | [Firebase](https://www.npmjs.com/package/firebase)                                     | Google Firebase SDK for integrating Firebase services with React applications |
 | [mongoose](https://mongoosejs.com/)                                                    | MongoDB object modeling library for Node.js                                   |
 | [mongoose-update-if-current](https://www.npmjs.com/package/mongoose-update-if-current) | Optimistic concurrency control plugin for Mongoose documents                  |
+| [neon](https://github.com/neondatabase/neon) 🥑                                        | Serverless Postgres                                                           |
 
 [Back to Top](#table-of-contents)
 
