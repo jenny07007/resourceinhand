@@ -45,7 +45,7 @@
 | [Vercel AI SDK](https://sdk.vercel.ai/docs)                     | SDK for building AI-powered user interfaces                                                                                              |
 | [flowiseAI](https://flowiseai.com/)                             | Drag & drop UI for building customized LLM (Large Language Model) flows                                                                  |
 | [pgvector](https://github.com/pgvector/pgvector)                | Open-source vector similarity search for Postgres                                                                                        |
-| [ray](https://openai.com/)                                      | Open-source unified framework for scaling AI and Python applications                                                                     |
+| [ray](https://github.com/ray-project/ray)                       | Open-source unified framework for scaling AI and Python applications                                                                     |
 | [anyscale](https://www.anyscale.com/)                           | Platform that simplifies developing, deploying, and managing scalable AI and Python apps using Ray.                                      |
 | [unstructured](https://github.com/Unstructured-IO/unstructured) | Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. |
 | [Replicate](https://replicate.com/)                             | Run machine learning models with a cloud API                                                                                             |
@@ -144,7 +144,7 @@
 | [Robohash](https://robohash.org/)                           | Generate unique robot avatars                                                                            |
 | [Dillinger](https://dillinger.io/)                          | Markdown editor with live preview                                                                        |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/)    | Fake online REST API for testing and prototyping                                                         |
-| [faker](https://github.com/Marak/Faker.js)                  | Generate fake data in Node.js and the browser                                                            |
+| [faker](https://github.com/faker-js/faker)                  | Generate massive amounts of fake data in the browser and node.js                                         |
 | [Public APIs](https://public-apis.xyz/)                     | A collection of public APIs                                                                              |
 | [hoppscotch](https://hoppscotch.io/)                        | API development and testing tool                                                                         |
 | [Modernizr](https://modernizr.com/)                         | Detect HTML5 and CSS3 features in various browsers                                                       |
@@ -287,7 +287,7 @@
 | [storybook](https://storybook.js.org/)                                                           | Catalog UI components, save component variations as stories                                    |
 | [drei](https://github.com/pmndrs/drei)                                                           | Helpers for react-three-fiber                                                                  |
 | [Tremor](https://www.tremor.so/)                                                                 | React components to build charts and dashboards                                                |
-| [react-use](https://github.com/streamich/react-use                                               | React Hooks                                                                                    |
+| [react-use](https://github.com/streamich/react-use)                                              | React Hooks                                                                                    |
 
 ### ❤️‍🔥 Remix
 
